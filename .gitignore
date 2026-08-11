@@ -9,3 +9,4 @@ faq.db*
 *.db-wal
 __pycache__/
 *.ipynb_checkpoints
+source_data/
