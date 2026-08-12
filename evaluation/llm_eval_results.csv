@@ -1,0 +1,688 @@
+variant,question,answer,relevance,explanation
+baseline,Where did Argentina play Algeria in the 2026 World Cup group stage?,"According to the tournament data, Argentina played Algeria at **Kansas City Stadium (Arrowhead Stadium) in Kansas City, USA** on June 16, 2026, during the Group Stage. Argentina won the match 3-0, with Lionel Messi scoring a hat-trick.",RELEVANT,"The answer correctly identifies the venue where Argentina played Algeria in the 2026 World Cup group stage as Kansas City Stadium (Arrowhead Stadium) in Kansas City, USA. This information is directly supported by the CONTEXT, which explicitly states in match-19: ""Argentina (ARG) vs Algeria (ALG) at Kansas City Stadium (Arrowhead Stadium), Kansas City, USA."" The answer also accurately includes the match date (June 16, 2026), the final score (3-0), and that Messi scored a hat-trick, all of which are consistent with the provided context."
+baseline,How many matches did Kristoffer Vassbakk Köpp Ajer play in the tournament?,"Based on the tournament data provided, **Kristoffer Vassbakk Köpp Ajer played in 5 matches** during the FIFA World Cup 2026.
+
+According to his stats, he started all 5 matches and played a total of 450 minutes.",RELEVANT,"The answer correctly states that Kristoffer Vassbakk Köpp Ajer played in 5 matches during the tournament. This directly matches the CONTEXT which shows his tournament stats as ""5 matches (5 started), 450 minutes."" The answer also accurately notes that he started all 5 matches and played 450 minutes total, which are additional correct details from the provided data."
+baseline,What group is Jordan in for the 2026 World Cup?,"Based on the provided context, **Jordan is in Group J** for the 2026 World Cup.
+
+This information comes from the team record which states: ""Jordan (JOR) - Group J, AFC.""",RELEVANT,"The answer directly and correctly addresses the question. The CONTEXT explicitly states ""Jordan (JOR) - Group J, AFC"" in the team information section. The answer accurately cites this information and provides the correct response that Jordan is in Group J for the 2026 World Cup."
+baseline,Who is the manager of the Ghana national football team for the 2026 World Cup?,"I don't have that information in the tournament data. The context provided contains match results, player statistics, and venue information for the 2026 FIFA World Cup, but it does not include details about the manager or coaching staff of the Ghana national football team.",NON_RELEVANT,"The answer correctly states that the information about Ghana's manager is not contained in the provided context. The context includes match results, player statistics, and venue details for Ghana's games in the 2026 World Cup, but does not include any information about the Ghana national team's manager or coaching staff. The answer accurately acknowledges this limitation."
+baseline,How many games did Belgium play in the tournament and what was their win-loss record?,"Based on the tournament data provided:
+
+**Belgium played 6 games** in the 2026 FIFA World Cup with the following record:
+
+- **3 Wins**
+- **2 Draws**
+- **1 Loss**
+
+The specific matches were:
+1. Group Stage: Belgium 0-0 IR Iran (Draw)
+2. Round of 32: Belgium 3-2 Senegal (Win - AET)
+3. Round of 16: Belgium 4-1 USA (Win)
+4. Quarter-finals: Spain 2-1 Belgium (Loss)
+
+Belgium scored 14 goals and conceded 7 goals throughout the tournament.",RELEVANT,"The answer correctly identifies that Belgium played 6 games in the tournament and accurately states their win-loss record (3 wins, 2 draws, 1 loss), which matches the team-25 context data. The specific match details provided are also accurate and consistent with the individual match records in the context. All key statistics mentioned (14 goals scored, 7 conceded) align with the context information."
+baseline,"What was the final score of the Scotland vs Morocco match on June 19, 2026?","According to the tournament data, the final score of the Scotland vs Morocco match on June 19, 2026 was:
+
+**Scotland 0 - 1 Morocco**
+
+The match was played at Boston Stadium (Gillette Stadium) in Foxborough, USA during the Group Stage. Morocco's Ismael Saibari scored the winning goal in the 2nd minute, with an assist from Brahim Diaz. Saibari was named Player of the Match.",RELEVANT,"The answer correctly identifies the final score of Scotland 0 - 1 Morocco from the match on June 19, 2026, which matches the context data (match-30). All details provided are accurate and consistent with the context: the venue (Boston Stadium/Gillette Stadium in Foxborough), the goalscorer (Ismael Saibari in the 2nd minute), the assist provider (Brahim Diaz), and the Player of the Match designation are all correctly stated. The answer directly and accurately answers the question posed."
+baseline,How many matches did Waheeb Mohammed Abu Alshamat play in the World Cup tournament?,"According to the tournament data, **Waheeb Mohammed Abu Alshamat played in 3 matches** during the World Cup tournament. He started in 1 of those matches and accumulated 136 minutes of playing time.",RELEVANT,"The answer directly addresses the question by stating that Waheeb Mohammed Abu Alshamat played in 3 matches during the World Cup tournament. This matches exactly with the CONTEXT provided, which shows in his tournament stats ""3 matches (1 started), 136 minutes."" The answer is accurate and consistent with the provided data."
+baseline,What was the final score of the Senegal vs Iraq match in the 2026 World Cup group stage?,"The final score of the Senegal vs Iraq match in the 2026 World Cup group stage was **Senegal 5-0 Iraq**.
+
+The match was played on June 26, 2026, at Toronto Stadium (BMO Field) in Toronto, Canada. Senegal dominated the match with 69% possession and 28 shots (12 on target), while Iraq managed only 6 shots with 1 on target. Iraq also played with a numerical disadvantage after receiving a red card in the 13th minute.",RELEVANT,"The answer correctly provides the final score of 5-0 in Senegal's favor, which matches the context exactly. The answer also accurately includes supporting details from the context: the date (June 26, 2026), venue (Toronto Stadium/BMO Field in Toronto, Canada), Senegal's possession and shot statistics (69% possession, 28 shots with 12 on target), Iraq's statistics (6 shots with 1 on target), and the red card incident in the 13th minute. All facts stated in the answer are consistent with the provided context."
+baseline,How many international caps does Oscar Bobb have?,"According to the tournament data, Oscar Bobb has **21 international caps** for Norway.",RELEVANT,"The answer correctly identifies that Oscar Bobb has 21 international caps. This information is directly stated in the CONTEXT under player-932: ""Bio: club Fulham FC, market value EUR 28000000, 21 caps, born 2003-07-12, height 177cm."" The answer accurately cites the tournament data as the source and provides the correct figure."
+baseline,How many international caps does Christian Andreas Fassnacht have?,"Based on the provided context, Christian Andreas Fassnacht has **23 international caps** for Switzerland.",RELEVANT,"The answer correctly identifies that Christian Andreas Fassnacht has 23 international caps, which is directly stated in the CONTEXT under his player biography (player-198). The answer accurately extracts and presents this information from the provided tournament data."
+baseline,What is Kristian Thorstvedt's current club and market value?,"Based on the tournament data provided:
+
+**Kristian Thorstvedt's current club is US Sassuolo and his market value is EUR 12,000,000.**",RELEVANT,"The answer correctly identifies both Kristian Thorstvedt's current club (US Sassuolo) and his market value (EUR 12,000,000), which matches the information provided in the CONTEXT under player-928. The answer directly and accurately addresses the question asked."
+baseline,How many clean sheets did Bo Kristoffer Nordfeldt have in the tournament?,"According to the tournament data, Bo Kristoffer Nordfeldt had **0 clean sheets** in the FIFA World Cup 2026 tournament. 
+
+He played 2 matches (180 minutes) for Sweden and conceded 6 goals during that time.",RELEVANT,"The answer correctly states that Bo Kristoffer Nordfeldt had 0 clean sheets in the tournament. This is directly supported by the context data which explicitly shows ""Goalkeeping: 0 clean sheets, 8 saves, 6 conceded"" in his player statistics. The answer also accurately provides supporting details (2 matches, 180 minutes, 6 goals conceded) that are consistent with the context."
+baseline,What is John Stones' current club and market value?,"Based on the tournament data provided:
+
+**John Stones' current club:** Manchester City FC
+
+**Market value:** EUR 12,000,000
+
+This information comes from his player profile in the FIFA World Cup 2026 tournament records, where he is listed as an England defender who appeared in 4 matches during the tournament.",RELEVANT,"The answer correctly identifies John Stones' current club as Manchester City FC and his market value as EUR 12,000,000, both of which match exactly with the information provided in the CONTEXT under player-1149. The answer is consistent with the tournament data and directly answers the question asked."
+baseline,What is Ibrahima Konate's height and market value?,"Based on the tournament data provided:
+
+**Ibrahima Konate's height:** 194 cm
+
+**Ibrahima Konate's market value:** EUR 45,000,000",RELEVANT,"The answer correctly states both pieces of information about Ibrahima Konate from the context: his height is 194 cm and his market value is EUR 45,000,000. Both facts are directly sourced from the player bio in the provided context data (player-847), and the answer accurately matches this information with no contradictions or omissions."
+baseline,What was South Korea's FIFA ranking before the 2026 World Cup?,"According to the tournament data, **South Korea's FIFA ranking before the 2026 World Cup was 22**.
+
+This information comes from their team record, which shows a pre-tournament FIFA ranking of 22 and an Elo rating of 1800.",RELEVANT,"The answer correctly identifies South Korea's FIFA ranking before the 2026 World Cup as 22, which is directly stated in the CONTEXT under the [team] team-3 entry: ""Pre-tournament FIFA ranking: 22, Elo rating: 1800."" The answer accurately cites the source material and provides the correct information with supporting details."
+baseline,"What was the final score of the match between Norway and England on July 11, 2026?","Based on the tournament data, the final score of the match between Norway and England on July 11, 2026 was **England 2, Norway 1**.
+
+This was a Quarter-finals match played at Hard Rock Stadium in Miami Gardens, USA. The match went to extra time (AET), with Jude Bellingham scoring both of England's goals (at 45' and 93'), while Andreas Schjelderup scored Norway's goal at 36'. Bellingham was named Player of the Match.",RELEVANT,"The answer correctly states the final score as England 2, Norway 1, which matches the context data for match-99. The answer also accurately provides additional details that are consistent with the context: the match was a Quarter-finals match on 2026-07-11, it was played at Hard Rock Stadium in Miami Gardens, it went to extra time (AET), Jude Bellingham scored both England goals (at 45' and 93'), Andreas Schjelderup scored Norway's goal at 36', and Bellingham was Player of the Match. All facts presented are accurate and well-supported by the provided context."
+baseline,"What was the final score of the Türkiye vs USA match on June 25, 2026?","# Türkiye vs USA - June 25, 2026
+
+The final score was **Türkiye 3, USA 2**.
+
+This Group Stage match was played at SoFi Stadium in Inglewood, USA. Arda Guler was named Player of the Match. Türkiye came from behind after the USA scored first, with goals from Arda Guler, Orkun Kokcu, and Kaan Ayhan securing the victory.",RELEVANT,"The answer correctly identifies the final score as Türkiye 3, USA 2, which matches the context data (match-55). The answer also accurately provides supporting details: the match was a Group Stage game played at SoFi Stadium in Inglewood, USA on June 25, 2026; Arda Guler was the Player of the Match; and the goal scorers mentioned (Arda Guler, Orkun Kokcu, and Kaan Ayhan for Türkiye) are all confirmed in the context's key events. The answer directly and fully addresses the question asked."
+baseline,How many international caps does Ramón Sosa have for Paraguay?,"According to the tournament data provided, Ramón Sosa has **30 international caps** for Paraguay.
+
+This information comes from his player biography, which lists his total caps as 30. However, please note that this represents his career total caps, not just those earned during the FIFA World Cup 2026 tournament itself.",RELEVANT,"The answer correctly identifies that Ramón Sosa has 30 international caps for Paraguay, which is directly stated in the CONTEXT under his player biography (player-345). The answer also appropriately clarifies that this represents his career total caps rather than just those from the tournament, which is accurate and helpful. The answer is consistent with and fully supported by the context provided."
+baseline,Who scored for Portugal in their match against Croatia in the 2026 World Cup?,"Based on the match data provided, **Portugal scored 2 goals against Croatia** in their Round of 32 match on July 3, 2026:
+
+1. **Cristiano Ronaldo** - scored in the 68th minute
+2. **Gonçalo Ramos** - scored in the 90th minute (assisted by Alexandre Rafael Leão)
+
+Portugal won the match 2-1, with Cristiano Ronaldo named Player of the Match.",RELEVANT,"The answer correctly identifies both Portuguese goalscorers in the Round of 32 match against Croatia on 2026-07-03. According to the match data provided in the context (match-84), Cristiano Ronaldo scored in the 68th minute and Gonçalo Ramos scored in the 90th minute (with an assist from Alexandre Rafael Leão). The final score of 2-1 and the notation that Ronaldo was Player of the Match are also accurate. The answer directly and completely answers the question with information that matches the context exactly."
+baseline,What was Morocco's FIFA ranking before the 2026 World Cup tournament started?,"Based on the provided context, **Morocco's FIFA ranking before the 2026 World Cup tournament started was 7**.
+
+This information is found in the team data, which states: ""Pre-tournament FIFA ranking: 7, Elo rating: 1920.""",RELEVANT,"The answer directly and accurately answers the question. The assistant correctly identifies Morocco's pre-tournament FIFA ranking as 7, which is explicitly stated in the CONTEXT under the team-10 data: ""Pre-tournament FIFA ranking: 7, Elo rating: 1920."" The answer is concise, accurate, and properly sourced from the provided context."
+baseline,What is Logan Tipene Rogerson's height and market value?,"Based on the tournament data provided:
+
+**Logan Tipene Rogerson's height:** 182 cm
+
+**Logan Tipene Rogerson's market value:** EUR 400,000",RELEVANT,"The answer correctly provides both pieces of information requested about Logan Tipene Rogerson. According to the CONTEXT, his height is 182cm and his market value is EUR 400000, which match exactly with what is stated in the answer. The answer is accurate and complete."
+baseline,How tall is the Colombian midfielder Jhon Adolfo Arias and when was he born?,"Based on the tournament data provided:
+
+**Jhon Adolfo Arias** was born on **September 21, 1997** and is **168 cm tall** (approximately 5'6"").
+
+He is a Colombian midfielder who played for SE Palmeiras during the 2026 FIFA World Cup.",RELEVANT,"The answer correctly provides both pieces of information requested about Jhon Adolfo Arias, the Colombian midfielder. According to the CONTEXT provided, he was born on 1997-09-21 (September 21, 1997) and his height is 168cm. The answer accurately matches all the relevant data from the player biography in the context. The additional conversion to approximate feet and inches (5'6"") and mention of his club (SE Palmeiras) are also consistent with the context and helpful supplementary details."
+baseline,What is Tajon Buchanan's current club and market value?,"Based on the provided tournament data, **Tajon Buchanan's current club is Villarreal CF and his market value is EUR 12,000,000**.",RELEVANT,"The answer correctly identifies Tajon Buchanan's current club as Villarreal CF and his market value as EUR 12,000,000. Both pieces of information are directly stated in the CONTEXT under player-121 (Tajon Trevor Buchanan - Canada): ""club Villarreal CF, market value EUR 12000000"". The answer matches the context exactly."
+baseline,What is Belgium's FIFA ranking heading into the 2026 World Cup?,"Based on the provided context, Belgium's FIFA ranking heading into the 2026 World Cup was **9th**.
+
+This information is found in the team record, which states: ""Pre-tournament FIFA ranking: 9, Elo rating: 1950.""",RELEVANT,"The answer directly and accurately addresses the question. The CONTEXT clearly states in the team record for Belgium: ""Pre-tournament FIFA ranking: 9, Elo rating: 1950."" The answer correctly identifies Belgium's FIFA ranking as 9th heading into the 2026 World Cup and cites the exact source from the provided context."
+baseline,Who is the manager of the Norwegian national football team for the World Cup?,"I don't have that information in the tournament data. While the context includes information about Norwegian players (Thelonious Gerard Aasgaard and Henrik Sælebakke Falchener) who participated in the World Cup, it does not contain details about Norway's manager for the tournament.",NON_RELEVANT,"The answer correctly states that the information about Norway's manager is not contained in the provided context. However, the question asks for the manager of the Norwegian national football team for the World Cup, and the context does not include any team entry for Norway - it only contains information about Portugal, Colombia, and Mexico, plus references to individual Norwegian players. The answer accurately reflects that this information is not available in the given context, which makes it a correct and honest response to an unanswerable question based on the provided data. The answer is ""NON_RELEVANT"" because the context does not contain the needed information to answer the question."
+baseline,How many goals did Erling Braut Haaland score against Iraq in the 2026 World Cup group stage?,"Based on the provided context, **Erling Braut Haaland scored 2 goals** against Iraq in the 2026 World Cup group stage match on June 16, 2026.
+
+The goals were scored at:
+- 29' (assisted by David Møller Wolfe)
+- 43' (no assist listed)
+
+Norway won the match 4-1, and Haaland was named Player of the Match.",RELEVANT,"The answer correctly states that Erling Braut Haaland scored 2 goals against Iraq in the 2026 World Cup group stage. This is directly supported by the match-18 context, which lists goals by Haaland at 29' and 43'. The answer also accurately provides the assist information (David Møller Wolfe for the first goal) and confirms the match details (date: 2026-06-16, final score: Iraq 1-4 Norway, Haaland named Player of the Match). The answer is factually correct and consistent with the provided context."
+baseline,What club does Benjamin Asare play for and what is his market value?,"Based on the tournament data provided:
+
+**Benjamin Asare** (Ghana goalkeeper) plays for **Hearts Of Oak SC** and has a market value of **EUR 100,000**.",RELEVANT,"The answer correctly identifies Benjamin Asare's club as Hearts Of Oak SC and his market value as EUR 100,000, which exactly matches the information provided in the context. The answer directly and accurately addresses both parts of the question."
+baseline,How many minutes did Lyle Brent Foster play in the World Cup?,"Based on the context provided, **Lyle Brent Foster played 56 minutes** in the World Cup.
+
+According to his tournament statistics, he appeared in 1 match (1 started) and accumulated a total of 56 minutes of playing time.",RELEVANT,"The answer correctly states that Lyle Brent Foster played 56 minutes in the World Cup. This directly matches the tournament stats provided in the CONTEXT, which explicitly states ""1 matches (1 started), 56 minutes."" The answer is accurate, complete, and well-supported by the provided context."
+baseline,How many minutes did Guesung Cho play in the World Cup tournament?,"According to the tournament data, **Guesung Cho played 29 minutes** in the World Cup tournament. He appeared in 2 matches as a substitute (0 started) without scoring any goals or assists.",RELEVANT,"The answer correctly states that Guesung Cho played 29 minutes in the World Cup tournament, which matches the CONTEXT exactly. The answer also accurately includes supporting details: he appeared in 2 matches without starting (0 started), and had 0 goals and 0 assists. All information provided in the answer is consistent with and supported by the CONTEXT data for player-61 (Guesung Cho)."
+baseline,How many matches did Mostafa Ahmed Lashin play in the tournament?,"Based on the tournament data provided, **Mostafa Ahmed Mohanad Lashin played 3 matches** in the FIFA World Cup 2026 tournament. He started in all 3 matches and played a total of 270 minutes.",RELEVANT,"The answer directly and accurately addresses the question. The CONTEXT clearly states that Mostafa Ahmed Mohanad Lashin (player-667) played ""3 matches (3 started), 270 minutes"" in the tournament. The answer correctly identifies that he played 3 matches and provides the additional accurate details that he started in all 3 matches and played 270 minutes total, all of which are consistent with the context provided."
+baseline,Who scored the goal in Ghana vs Panama at the 2026 World Cup?,"Based on the context provided, **Caleb Marfo Yirenkyi** scored the goal for Ghana in their 1-0 victory over Panama on June 17, 2026, at Toronto Stadium (BMO Field). The goal came in the 90th minute, with an assist from Antoine Serlom Semenyo, who was named Player of the Match.",RELEVANT,"The answer directly and accurately addresses the question. According to the CONTEXT provided (match-23), Caleb Marfo Yirenkyi scored the goal for Ghana in their 1-0 victory over Panama on June 17, 2026. All details provided in the answer match the context: the player name, the score (1-0), the date (2026-06-17), the venue (Toronto Stadium/BMO Field), the time of goal (90'), the assist provider (Antoine Serlom Semenyo), and the Player of the Match designation. The answer is complete and consistent with the provided context."
+baseline,Did Jearl Erwin Margaritha score any goals or receive any cards in the tournament?,"Based on the tournament data provided, **Jearl Erwin Margaritha did not score any goals or receive any cards** in the FIFA World Cup 2026.
+
+His tournament statistics show:
+- **Goals:** 0
+- **Assists:** 0
+- **Yellow cards:** 0
+- **Red cards:** 0
+
+He appeared in 2 matches for Curaçao, playing a total of 40 minutes (coming off the bench in both matches).",RELEVANT,"The answer correctly addresses the question by stating that Jearl Erwin Margaritha did not score any goals or receive any cards in the tournament. All specific statistics provided in the answer (0 goals, 0 assists, 0 yellow cards, 0 red cards, 2 matches, 40 minutes played, came off the bench in both matches) are directly supported by the CONTEXT provided in the player-458 entry. The answer is accurate, complete, and fully consistent with the tournament data."
+baseline,How many goals did Riyad Karim Mahrez score against Austria in the 2026 World Cup group stage?,"Based on the match data provided, **Riyad Karim Mahrez scored 2 goals** against Austria in the 2026 World Cup group stage match on June 27, 2026.
+
+The goals were:
+- 60' Goal (assisted by Houssem-Eddine Chaabane Aouar)
+- 90' Goal (assisted by Houssem-Eddine Chaabane Aouar)
+
+The match ended in a 3-3 draw, and Mahrez was named Player of the Match.",NON_RELEVANT,"The answer states that Riyad Karim Mahrez scored 2 goals against Austria, but according to the match data in the CONTEXT, he actually scored 3 goals in that match. The key events clearly show: Goal at 60' (Mahrez), Goal at 90' (Mahrez), and importantly, there is also a Goal at 45' credited to Rafik Belghali with an assist from Riyad Karim Mahrez. However, reviewing more carefully, the goals scored BY Mahrez are: 60' Goal - Riyad Karim Mahrez and 90' Goal - Riyad Karim Mahrez. That is 2 goals. But wait - the context shows his tournament stats are ""Goals: 2"" across 4 matches total. The match on 2026-06-27 shows him scoring at both 60' and 90', which totals 2 goals in that specific match. The answer of 2 goals is actually correct and matches the context. The answer accurately identifies the correct number of goals (2), provides the correct timing and assists, identifies the correct match date, and confirms his Player of the Match status. This answer is fully consistent with and correctly answers the question based on the provided context."
+baseline,How many international caps does the New Zealand defender Francis De Vries have?,"According to the tournament data provided, Francis De Vries has **20 international caps** for New Zealand.",RELEVANT,"The answer correctly states that Francis De Vries has 20 international caps for New Zealand. This information is found in the CONTEXT provided, specifically in the player bio for player-705: ""20 caps"". The answer directly and accurately addresses the question asked."
+baseline,Who scored the goals in Mexico's victory over Czechia in their World Cup group stage match?,"# Mexico's Goals Against Czechia
+
+Mexico won 3-0 against Czechia in their World Cup group stage match on June 24, 2026. The three goalscorers were:
+
+1. **Mateo Chavez** (55') - assisted by Luis Francisco Romo
+2. **Julián Andrés Quinones** (61') - assisted by Jorge Eduardo Sanchez
+3. **Álvaro Fidalgo** (90') - assisted by Roberto Carlos Alvarado
+
+The match was played at Mexico City Stadium (Estadio Azteca), and Mateo Chavez was named Player of the Match.",RELEVANT,"The answer correctly identifies all three goalscorers in Mexico's 3-0 victory over Czechia on June 24, 2026, with accurate timing, assist information, and match details. All facts match the context provided: Mateo Chavez (55'), Julián Andrés Quinones (61'), and Álvaro Fidalgo (90') scored the goals with their respective assists correctly attributed. The match venue and Player of the Match information are also accurate. The answer fully and accurately addresses the question."
+baseline,What was the final score of the match between Curaçao and Côte d'Ivoire played in Philadelphia?,"Based on the provided context, the final score of the match between Curaçao and Côte d'Ivoire played in Philadelphia was **Curaçao 0-2 Côte d'Ivoire**.
+
+This Group Stage match was played on June 26, 2026, at Philadelphia Stadium (Lincoln Financial Field) in Philadelphia, USA. Nicolas Pepe scored both goals for Côte d'Ivoire (in the 7th and 64th minutes).",RELEVANT,"The answer correctly identifies the final score as Curaçao 0-2 Côte d'Ivoire, which matches exactly with the context provided in match-58. The answer also accurately includes supporting details: the correct date (June 26, 2026), the correct location (Philadelphia Stadium/Lincoln Financial Field in Philadelphia, USA), the correct competition stage (Group Stage), and the correct goalscorer information (Nicolas Pepe scoring in the 7th and 64th minutes). All facts in the answer are consistent with and directly supported by the context."
+baseline,Where did the Belgium and New Zealand play their World Cup group stage match?,"# Belgium vs New Zealand Match Venue
+
+Belgium and New Zealand played their World Cup group stage match at **Vancouver Stadium (BC Place) in Vancouver, Canada**.
+
+The match took place on **June 27, 2026**, with Belgium winning 5-1.",RELEVANT,"The answer correctly identifies the venue as Vancouver Stadium (BC Place) in Vancouver, Canada, which matches the CONTEXT. The match details are also accurate: it was a group stage match on June 27, 2026, with Belgium winning 5-1. All information provided is consistent with the tournament data provided."
+baseline,Which club does Obed Goméz Vargas play for and when was he born?,"Based on the provided context:
+
+**Obed Goméz Vargas** plays for **Atlético De Madrid** and was born on **August 5, 2005** (2005-08-05).",RELEVANT,"The answer correctly identifies that Obed Goméz Vargas plays for Atlético De Madrid and was born on 2005-08-05 (August 5, 2005). Both pieces of information are directly stated in the CONTEXT under player-18's bio section: ""club Atlético De Madrid"" and ""born 2005-08-05"". The answer accurately and completely addresses the question with information that matches the provided context."
+baseline,What position does Pascal Gross play and how many international caps does he have?,"Based on the provided context:
+
+**Position:** Pascal Gross plays as a **midfielder (MID)**.
+
+**International Caps:** He has **18 caps** for Germany.",RELEVANT,"The answer correctly identifies Pascal Gross's position as midfielder (MID) and accurately states he has 18 international caps for Germany. Both facts are directly supported by the player bio in the context: ""Pascal Alexander GROß GROß Gross - Germany, position MID"" and ""Bio: club Brighton & Hove Albion FC, market value EUR 23591065, 18 caps, born 1991-06-15, height 181cm."" The answer fully and accurately addresses the question."
+baseline,What was the final score of the Germany vs Curaçao World Cup 2026 match?,"The final score of the Germany vs Curaçao World Cup 2026 match was **Germany 7, Curaçao 1**.
+
+This Group Stage match took place on June 14, 2026, at Philadelphia Stadium (Lincoln Financial Field) in Philadelphia, USA. Kai Lukas Havertz was named Player of the Match.",RELEVANT,"The answer correctly states the final score of the Germany vs Curaçao World Cup 2026 match as Germany 7, Curaçao 1. This matches exactly with the context provided in match-9. The answer also accurately includes additional details: the date (June 14, 2026), the location (Philadelphia Stadium/Lincoln Financial Field in Philadelphia, USA), and the Player of the Match (Kai Lukas Havertz). All facts presented are consistent with and supported by the context."
+baseline,How many matches did Nicolas Seiwald play in the World Cup?,"According to the tournament data, **Nicolas Seiwald played 4 matches** in the World Cup. He started in all 4 matches and played a total of 315 minutes.",RELEVANT,"The answer correctly states that Nicolas Seiwald played 4 matches in the World Cup, which directly matches the tournament stats provided in the context: ""4 matches (4 started), 315 minutes."" The answer also accurately includes the additional details that he started all 4 matches and played 315 minutes total, all of which are consistent with the context data."
+baseline,How many minutes did Joshua Kimmich play in the World Cup 2026?,"According to the tournament data, **Joshua Kimmich played 353 minutes** in the FIFA World Cup 2026. He appeared in 4 matches, starting in all 4 of them, for Germany.",RELEVANT,"The answer correctly states that Joshua Kimmich played 353 minutes in the FIFA World Cup 2026, which matches exactly with the CONTEXT data for player-422 (Joshua Walter Kimmich). The answer also accurately notes that he appeared in 4 matches and started in all 4 of them, and correctly identifies him as playing for Germany. All information is consistent with and directly supported by the provided context."
+baseline,How many goals did Youri Tielemans score in the Belgium-Senegal Round of 32 match?,"Based on the context provided, **Youri Tielemans scored 2 goals** in the Belgium-Senegal Round of 32 match on July 2, 2026.
+
+According to the match details:
+- **89' Goal** - Youri Marion Tielemans (Belgium) with an assist from Leandro Trossard
+- **120' Goal** - Youri Marion Tielemans (Belgium)
+
+Belgium won the match 3-2 after extra time (AET), and Tielemans was named Player of the Match.",RELEVANT,"The answer correctly states that Youri Tielemans scored 2 goals in the Belgium-Senegal Round of 32 match. This is directly supported by the context, which shows two goal entries for Tielemans: one at 89' and one at 120' in match-81 (Belgium 3-2 Senegal). The answer also accurately provides the specific times of the goals, notes the assist on the 89' goal from Leandro Trossard, and correctly identifies that Belgium won 3-2 in extra time (AET) with Tielemans as Player of the Match. All details are consistent with the provided context."
+baseline,How many clean sheets did Lawrence Ati Zigi keep in the World Cup 2026?,"According to the tournament data, Lawrence Ati Zigi kept **1 clean sheet** in the FIFA World Cup 2026.
+
+This clean sheet came in Ghana's Group Stage match against Panama on June 17, 2026, which Ghana won 1-0. In his second match (Round of 32 against Colombia on July 4, 2026), Ghana lost 0-1, so that was not a clean sheet.",RELEVANT,"The answer correctly states that Lawrence Ati Zigi kept 1 clean sheet in the World Cup 2026, which matches the tournament statistics provided in the context (""Goalkeeping: 1 clean sheets, 12 saves, 1 conceded""). The answer also accurately identifies which match resulted in the clean sheet (Ghana 1-0 Panama on June 17, 2026) and correctly notes that the second match (Colombia 1-0 Ghana on July 4, 2026) was not a clean sheet since Ghana conceded 1 goal. All details provided are consistent with the context data."
+baseline,Did Paul Brian Rodriguez score any goals in the World Cup tournament?,"No, Paul Brian Rodriguez did not score any goals in the World Cup tournament. According to his tournament statistics, he played in 3 matches (0 started) for 38 minutes total, but recorded 0 goals, 0 assists, and 0 penalty goals.",RELEVANT,"The answer correctly addresses the question by stating that Paul Brian Rodriguez did not score any goals in the World Cup tournament. This is directly supported by the CONTEXT, which shows that player-824 (Paul Brian Rodriguez from Uruguay) has tournament stats showing Goals: 0. The answer also provides accurate supporting details from the context about his playing time (3 matches, 0 started, 38 minutes) and his other statistics (0 assists, 0 penalty goals), all of which are consistent with the provided data."
+baseline,What is Memphis Depay's current market value?,"According to the tournament data provided, Memphis Depay's current market value is **EUR 7,000,000**.",RELEVANT,"The answer directly addresses the question by providing Memphis Depay's market value as stated in the context. According to the player profile for Memphis Depay (player-530) in the provided tournament data, his market value is EUR 7,000,000. The answer matches this information exactly and is consistent with the context provided."
+baseline,Which player was named player of the match in the Brazil and Morocco game in the 2026 World Cup group stage?,"Based on the provided context, **José Vinicius** was named player of the match in the Brazil vs Morocco game during the 2026 World Cup group stage.
+
+This match took place on June 13, 2026, at the New York New Jersey Stadium (MetLife Stadium) in East Rutherford, USA, and ended in a 1-1 draw. Vinicius also scored a goal for Brazil in the 32nd minute of that match.",RELEVANT,"The answer correctly identifies José Vinicius as the player of the match in the Brazil vs Morocco game during the 2026 World Cup group stage. This information is directly stated in the context (match-6): ""Player of the match: José Vinicius."" The answer also accurately provides supporting details that are consistent with the context: the match date (2026-06-13), venue (New York New Jersey Stadium/MetLife Stadium in East Rutherford, USA), final score (1-1 draw), and that Vinicius scored Brazil's goal in the 32nd minute with an assist from Bruno Guimarães. All facts in the answer match the provided context."
+baseline,What is Moonhwan Kim's height and market value?,"Based on the tournament data provided, **Moonhwan Kim's height is 173cm and his market value is EUR 750,000**.",RELEVANT,"The answer correctly identifies Moonhwan Kim's height as 173cm and his market value as EUR 750,000, both of which match the information provided in the CONTEXT for player-67 (Moonhwan Kim - South Korea, DEF). The answer directly and accurately addresses the question with no contradictions or missing key details."
+baseline,Which country does Joshua Brenet play for and what is his position?,"Based on the context provided:
+
+**Joshua Brenet plays for Curaçao and his position is DEF (Defender).**",RELEVANT,"The answer correctly identifies both pieces of information requested: Joshua Brenet plays for Curaçao (his national team) and his position is DEF (Defender). This matches exactly with the CONTEXT provided in player-462, which states ""Joshua Benjamin Brenet - Curaçao, position DEF."""
+baseline,What was the final score of the Mexico vs South Korea game at Guadalajara Stadium?,"Based on the tournament data provided, the final score of the Mexico vs South Korea game at Guadalajara Stadium was **Mexico 1, South Korea 0**.
+
+This Group Stage match was played on June 18, 2026. Luis Francisco Romo scored the winning goal for Mexico in the 50th minute.",RELEVANT,"The answer correctly states the final score of Mexico 1, South Korea 0 from the Mexico vs South Korea match at Guadalajara Stadium on June 18, 2026. The answer also accurately identifies that Luis Francisco Romo scored the winning goal in the 50th minute. All details match the match-25 data provided in the context."
+concise,Where did Argentina play Algeria in the 2026 World Cup group stage?,"Argentina played Algeria at Kansas City Stadium (Arrowhead Stadium) in Kansas City, USA on June 16, 2026, with Argentina winning 3-0.",RELEVANT,"The answer directly and accurately answers the question. It correctly identifies Kansas City Stadium (Arrowhead Stadium) in Kansas City, USA as the venue where Argentina played Algeria in the 2026 World Cup group stage. The answer also provides additional relevant context from the CONTEXT (the date of June 16, 2026, and the final score of 3-0), all of which match the match-19 data provided. No contradictions with the context exist."
+concise,How many matches did Kristoffer Vassbakk Köpp Ajer play in the tournament?,"Kristoffer Vassbakk Köpp Ajer played 5 matches in the tournament, starting in all 5 matches for a total of 450 minutes.",RELEVANT,"The answer directly and accurately addresses the question. According to the CONTEXT provided for player-913 (Kristoffer Vassbakk Köpp Ajer), the tournament stats clearly show ""5 matches (5 started), 450 minutes."" The answer correctly states that he played 5 matches, started in all 5 matches, and played 450 minutes total, which matches the context exactly."
+concise,What group is Jordan in for the 2026 World Cup?,Jordan is in Group J for the 2026 World Cup.,RELEVANT,"The answer correctly states that Jordan is in Group J for the 2026 World Cup. This is directly supported by the CONTEXT, which explicitly states under [team] team-40: ""Jordan (JOR) - Group J, AFC."" The answer is accurate, complete, and fully consistent with the provided information."
+concise,Who is the manager of the Ghana national football team for the 2026 World Cup?,"I don't have that information. The provided context contains details about Ghana's match results and player statistics for the 2026 World Cup, but it does not include information about who manages the Ghana national football team.",NON_RELEVANT,"The answer correctly identifies that the context does not contain information about Ghana's manager for the 2026 World Cup. The context provided includes match details, player statistics, and game events, but no managerial information. The answer accurately states ""I don't have that information"" and correctly explains why - the context simply does not include this data. This is an appropriate response when the required information is absent from the provided context."
+concise,How many games did Belgium play in the tournament and what was their win-loss record?,"Belgium played 6 games in the tournament with a record of 3 wins, 2 draws, and 1 loss.",RELEVANT,"The answer correctly states that Belgium played 6 games in the tournament with a record of 3 wins, 2 draws, and 1 loss. This information is directly confirmed by the team record in the CONTEXT: ""Tournament record: 6 played, 3 won, 2 drawn, 1 lost."" The answer also matches the match data provided - 4 matches are shown (group stage vs Iran 0-0, round of 32 vs Senegal 3-2 AET, round of 16 vs USA 1-4, quarter-finals vs Spain 2-1), with the team record accounting for 2 additional group stage matches not detailed. The answer directly and accurately addresses the question."
+concise,"What was the final score of the Scotland vs Morocco match on June 19, 2026?","The final score of the Scotland vs Morocco match on June 19, 2026 was Scotland 0, Morocco 1. Morocco won with a goal from Ismael Saibari in the 2nd minute.",RELEVANT,"The answer correctly states that the final score of the Scotland vs Morocco match on June 19, 2026 was Scotland 0, Morocco 1. It also accurately identifies that Morocco won and provides the correct detail that Ismael Saibari scored the goal in the 2nd minute. This matches exactly with the context provided (match-30), which shows ""Final score: Scotland 0, Morocco 1"" and ""2' Goal - Ismael Saibari (Morocco)"". The answer is complete, accurate, and directly addresses the question."
+concise,How many matches did Waheeb Mohammed Abu Alshamat play in the World Cup tournament?,"Waheeb Mohammed Abu Alshamat played 3 matches in the World Cup tournament, starting in 1 of them for a total of 136 minutes.",RELEVANT,"The answer directly and accurately addresses the question. According to the CONTEXT, Waheeb Mohammed Abu Alshamat's tournament stats show ""3 matches (1 started), 136 minutes,"" which matches exactly what the answer states. The answer correctly identifies that he played 3 matches total, started in 1 of them, and played 136 minutes. This is fully consistent with the provided context."
+concise,What was the final score of the Senegal vs Iraq match in the 2026 World Cup group stage?,"Senegal defeated Iraq 5-0 on June 26, 2026, in the group stage at Toronto Stadium (BMO Field).",RELEVANT,"The answer correctly states the final score of the Senegal vs Iraq match as 5-0, accurately identifies the date as June 26, 2026, correctly names the venue as Toronto Stadium (BMO Field), and properly specifies that this was a group stage match. All of these details are consistent with the match data provided in the context (match-66)."
+concise,How many international caps does Oscar Bobb have?,Oscar Bobb has 21 international caps for Norway.,RELEVANT,"The answer correctly states that Oscar Bobb has 21 international caps. This information is directly found in the CONTEXT provided, in the player-932 entry under Oscar Bobb's bio section, which lists ""21 caps"". The answer accurately answers the question and is fully consistent with the context."
+concise,How many international caps does Christian Andreas Fassnacht have?,Christian Andreas Fassnacht has 23 international caps for Switzerland.,RELEVANT,"The answer correctly identifies that Christian Andreas Fassnacht has 23 international caps, which matches the information provided in the CONTEXT. The context clearly states in the biography section of player-198 (Christian Andreas Fassnacht - Switzerland) that he has ""23 caps"". The answer is accurate and directly addresses the question."
+concise,What is Kristian Thorstvedt's current club and market value?,"Kristian Thorstvedt's current club is US Sassuolo and his market value is EUR 12,000,000.",RELEVANT,"The answer correctly identifies both pieces of information requested. According to the CONTEXT provided for player-928 (Kristian Thorstvedt), his club is US Sassuolo and his market value is EUR 12,000,000. The answer matches these facts exactly."
+concise,How many clean sheets did Bo Kristoffer Nordfeldt have in the tournament?,Bo Kristoffer Nordfeldt had 0 clean sheets in the tournament.,RELEVANT,"The answer directly addresses the question and is consistent with the CONTEXT. According to the tournament data provided for Bo Kristoffer Nordfeldt (player-595), his goalkeeping statistics clearly state ""0 clean sheets."" The answer correctly identifies this information from the context."
+concise,What is John Stones' current club and market value?,"John Stones' current club is Manchester City FC, and his market value is EUR 12,000,000.",RELEVANT,"The answer correctly identifies John Stones' current club as Manchester City FC and his market value as EUR 12,000,000. This information matches exactly with the context provided in the player-1149 entry, which states: ""club Manchester City FC, market value EUR 12000000"". The answer directly and accurately addresses both parts of the question based on the tournament data provided."
+concise,What is Ibrahima Konate's height and market value?,"Ibrahima Konate is 194 cm tall and has a market value of EUR 45,000,000.",RELEVANT,"The answer correctly states that Ibrahima Konate is 194 cm tall and has a market value of EUR 45,000,000. These facts are directly confirmed in the CONTEXT provided under player-847, which shows: ""height 194cm"" and ""market value EUR 45000000"". The answer accurately addresses both parts of the question."
+concise,What was South Korea's FIFA ranking before the 2026 World Cup?,South Korea's FIFA ranking before the 2026 World Cup was 22.,RELEVANT,"The answer states that South Korea's FIFA ranking before the 2026 World Cup was 22. This is directly confirmed in the CONTEXT provided in the [team] team-3 section, which explicitly states ""Pre-tournament FIFA ranking: 22"" for South Korea (KOR). The answer correctly and completely answers the question."
+concise,"What was the final score of the match between Norway and England on July 11, 2026?","The final score of the match between Norway and England on July 11, 2026 was England 2, Norway 1. The match was a Quarter-finals game played at Hard Rock Stadium in Miami Gardens, USA, and went to after extra time (AET).",RELEVANT,"The answer correctly states the final score as England 2, Norway 1 for the match on July 11, 2026. All details provided in the answer are consistent with the context: it was a Quarter-finals match, played at Hard Rock Stadium in Miami Gardens, USA, and the result type was AET (After Extra Time). The answer directly and accurately addresses the question asked."
+concise,"What was the final score of the Türkiye vs USA match on June 25, 2026?","The final score of the Türkiye vs USA match on June 25, 2026 was Türkiye 3, USA 2.",RELEVANT,"The answer correctly states the final score of the Türkiye vs USA match on June 25, 2026 as Türkiye 3, USA 2. This directly matches the context provided in match-55, which explicitly states ""Final score: Türkiye 3, USA 2"" for the Group Stage match played on 2026-06-25 at Los Angeles Stadium (SoFi Stadium)."
+concise,How many international caps does Ramón Sosa have for Paraguay?,Ramón Sosa has 30 international caps for Paraguay.,RELEVANT,"The answer correctly states that Ramón Sosa has 30 international caps for Paraguay. This information is directly found in the CONTEXT under the player profile for Ramón Sosa (player-345), which explicitly lists ""30 caps"" in the Bio section. The answer accurately addresses the question and is entirely consistent with the provided tournament data."
+concise,Who scored for Portugal in their match against Croatia in the 2026 World Cup?,"Cristiano Ronaldo scored in the 68th minute, and Gonçalo Ramos scored in the 90th minute for Portugal in their 2-1 victory over Croatia.",RELEVANT,"The answer correctly identifies the two Portuguese goal scorers in the match against Croatia on 2026-07-03. According to the context (match-84), Cristiano Ronaldo scored in the 68th minute and Gonçalo Ramos scored in the 90th minute, resulting in a 2-1 victory for Portugal. The answer is accurate and directly addresses the question."
+concise,What was Morocco's FIFA ranking before the 2026 World Cup tournament started?,Morocco's FIFA ranking before the 2026 World Cup tournament started was 7.,RELEVANT,"The answer correctly states that Morocco's FIFA ranking before the 2026 World Cup tournament started was 7. This is directly supported by the CONTEXT, which explicitly states under the Morocco team information: ""Pre-tournament FIFA ranking: 7, Elo rating: 1920."""
+concise,What is Logan Tipene Rogerson's height and market value?,"Logan Tipene Rogerson is 182cm tall and has a market value of EUR 400,000.",RELEVANT,"The answer correctly identifies Logan Tipene Rogerson's height as 182cm and market value as EUR 400,000. Both facts match exactly with the player information provided in the CONTEXT under player-709. The answer is accurate, complete, and directly addresses the question."
+concise,How tall is the Colombian midfielder Jhon Adolfo Arias and when was he born?,"Jhon Adolfo Arias is 168 cm tall and was born on September 21, 1997.",RELEVANT,"The answer correctly states that Jhon Adolfo Arias is 168 cm tall and was born on September 21, 1997. Both facts are directly confirmed in the CONTEXT under the player-1129 entry: ""born 1997-09-21, height 168cm."" The answer accurately addresses the question and is consistent with the provided tournament data."
+concise,What is Tajon Buchanan's current club and market value?,"Tajon Buchanan's current club is Villarreal CF and his market value is EUR 12,000,000.",RELEVANT,"The answer correctly identifies Tajon Buchanan's current club as Villarreal CF and his market value as EUR 12,000,000. Both pieces of information are directly stated in the CONTEXT under player-121's biographical information: ""club Villarreal CF, market value EUR 12000000"". The answer accurately matches the contextual data provided."
+concise,What is Belgium's FIFA ranking heading into the 2026 World Cup?,Belgium's FIFA ranking heading into the 2026 World Cup was 9.,RELEVANT,"The answer correctly states that Belgium's FIFA ranking heading into the 2026 World Cup was 9. This is directly confirmed in the CONTEXT under [team] team-25, which explicitly states ""Pre-tournament FIFA ranking: 9"" for Belgium. The answer is accurate and fully addresses the question."
+concise,Who is the manager of the Norwegian national football team for the World Cup?,I don't have that information. The provided context includes information about Norwegian players but does not contain details about Norway's manager for the World Cup.,RELEVANT,"The answer correctly identifies that the context does not contain information about Norway's manager for the World Cup. The answer appropriately states ""I don't have that information"" rather than speculating or using outside knowledge. The context provided only includes player data for Norwegian players (Aasgaard and Falchener) and manager information for Portugal, Colombia, and Mexico—but no information about Norway's team entry or manager. The answer is accurate and honest about the limitation of the provided context."
+concise,How many goals did Erling Braut Haaland score against Iraq in the 2026 World Cup group stage?,"Erling Braut Haaland scored 2 goals against Iraq in the 2026 World Cup group stage match on June 16, 2026 (Norway won 4-1).",RELEVANT,"The answer correctly states that Erling Braut Haaland scored 2 goals against Iraq in the 2026 World Cup group stage. According to the match context (match-18), the key events show two goals scored by Haaland: one at 29' (assisted by David Møller Moller Wolfe) and one at 43'. The final score was Norway 4-1 Iraq, which the answer also correctly identifies. All details in the answer are consistent with the context provided."
+concise,What club does Benjamin Asare play for and what is his market value?,"Benjamin Asare plays for Hearts Of Oak SC and has a market value of EUR 100,000.",RELEVANT,"The answer correctly identifies that Benjamin Asare plays for Hearts Of Oak SC and has a market value of EUR 100,000, which matches exactly with the context provided for player-1212 (Benjamin Asare - Ghana, GK). Both pieces of information requested in the question are accurately answered."
+concise,How many minutes did Lyle Brent Foster play in the World Cup?,"Lyle Brent Foster played 56 minutes in the World Cup, appearing in 1 match (which he started).",RELEVANT,"The answer correctly states that Lyle Brent Foster played 56 minutes in the World Cup and appeared in 1 match which he started. This information is directly confirmed in the CONTEXT under player-35, which states: ""Tournament stats: 1 matches (1 started), 56 minutes."" The answer is accurate and fully addresses the question."
+concise,How many minutes did Guesung Cho play in the World Cup tournament?,Guesung Cho played 29 minutes in the World Cup tournament across 2 matches (0 started).,RELEVANT,"The answer directly and accurately addresses the question. According to the CONTEXT provided for player-61 (Guesung Cho), his tournament stats show ""2 matches (0 started), 29 minutes."" The answer correctly states he played 29 minutes in the World Cup tournament and provides the additional accurate detail that this was across 2 matches with 0 starts. This matches the context exactly."
+concise,How many matches did Mostafa Ahmed Lashin play in the tournament?,"Mostafa Ahmed Lashin played 3 matches in the tournament, starting all 3 of them for a total of 270 minutes.",RELEVANT,"The answer states that Mostafa Ahmed Lashin played 3 matches, starting all 3 of them for a total of 270 minutes. This exactly matches the context information provided for player-667 (Mostafa Ahmed Mohanad Lashin - Egypt, MID): ""Tournament stats: 3 matches (3 started), 270 minutes."" The answer is accurate and directly addresses the question with complete information from the context."
+concise,Who scored the goal in Ghana vs Panama at the 2026 World Cup?,"Caleb Marfo Yirenkyi scored the goal for Ghana in their 1-0 victory over Panama on June 17, 2026, with an assist from Antoine Serlom Semenyo in the 90th minute.",RELEVANT,"The answer correctly identifies Caleb Marfo Yirenkyi as the scorer of Ghana's goal against Panama in the 2026 World Cup match on June 17, 2026. All details match the context exactly: the scorer's name, the final score (1-0), the date, the assist provider (Antoine Serlom Semenyo), and the timing (90th minute). The answer directly and accurately answers the question posed."
+concise,Did Jearl Erwin Margaritha score any goals or receive any cards in the tournament?,"No, Jearl Erwin Margaritha did not score any goals or receive any cards in the tournament. He had 0 goals and 0 cards (0 yellow, 0 red) across his 2 matches.",RELEVANT,"The answer correctly addresses the question by stating that Jearl Erwin Margaritha did not score any goals and did not receive any cards. This is directly supported by the CONTEXT provided for player-458 (Jearl Erwin Margaritha), which explicitly states: ""Goals: 0, assists: 0, penalty goals: 0, own goals: 0"" and ""Cards: 0 yellow, 0 red."" The answer accurately reflects all the relevant tournament statistics from the context and fully answers both parts of the question (goals and cards)."
+concise,How many goals did Riyad Karim Mahrez score against Austria in the 2026 World Cup group stage?,"Riyad Karim Mahrez scored 2 goals against Austria in the 2026 World Cup group stage match on June 27, 2026 (in the 60th and 90th minutes).",NON_RELEVANT,"The answer is factually incorrect according to the context. According to match-68, Riyad Karim Mahrez scored 3 goals against Austria, not 2:
+- 60' Goal - Riyad Karim Mahrez (Algeria)
+- 90' Goal - Riyad Karim Mahrez (Algeria)
+- The answer also missed the goal at 45', which was an assist by Mahrez (not a goal for him), so the actual goals scored by Mahrez were at 60' and 90' minutes only, making it 2 goals from those two occasions. However, looking at the key events more carefully: Mahrez had goals at 60' and 90'. But the answer claims ""2 goals"" which would be correct if we count only these two minutes. Yet reviewing the match details again: there are goals scored BY Mahrez listed at the 60' and 90' minute marks. The answer states he scored 2 goals in the 60th and 90th minutes, which matches the context. However, I need to recount: the match-68 shows goals scored (not assisted) by Mahrez at 60' and 90', which is indeed 2 goals. The answer is actually CORRECT on this count. But wait - let me verify once more by checking if there are any other Mahrez goals listed. Reviewing the key events: ""60' Goal - Riyad Karim Mahrez"" and ""90' Goal - Riyad Karim Mahrez"" - that's 2 goals. The answer of 2 goals is correct and matches the context precisely."
+concise,How many international caps does the New Zealand defender Francis De Vries have?,Francis De Vries has 20 international caps for New Zealand.,RELEVANT,"The answer correctly states that Francis De Vries has 20 international caps for New Zealand. This matches exactly with the CONTEXT provided in the player bio section for player-705 (Francis De Vries - New Zealand, DEF), which explicitly states ""20 caps"" in the Bio section."
+concise,Who scored the goals in Mexico's victory over Czechia in their World Cup group stage match?,"Mateo Chavez, Julián Andrés Quinones, and Álvaro Fidalgo scored Mexico's three goals in their 3-0 victory over Czechia on June 24, 2026.",RELEVANT,"The answer correctly identifies all three goal scorers in Mexico's 3-0 victory over Czechia on June 24, 2026. According to the match data (match-49), the goals were scored by: Mateo Chavez at 55', Julián Andrés Quinones at 61', and Álvaro Fidalgo at 90'. The answer accurately names all three scorers and provides the correct final score and date."
+concise,What was the final score of the match between Curaçao and Côte d'Ivoire played in Philadelphia?,"The final score of the match between Curaçao and Côte d'Ivoire played in Philadelphia was Curaçao 0, Côte d'Ivoire 2.",RELEVANT,"The answer correctly states the final score as Curaçao 0, Côte d'Ivoire 2, which matches the context information exactly. The context clearly shows this was match-58 played on 2026-06-26 at Philadelphia Stadium (Lincoln Financial Field) in Philadelphia, USA. The answer directly and accurately addresses the question with no errors or missing key details."
+concise,Where did the Belgium and New Zealand play their World Cup group stage match?,"Belgium and New Zealand played their World Cup group stage match at Vancouver Stadium (BC Place) in Vancouver, Canada on June 27, 2026. Belgium won 5-1.",RELEVANT,"The answer correctly identifies the venue (Vancouver Stadium/BC Place in Vancouver, Canada) where Belgium and New Zealand played their World Cup group stage match. It also accurately includes the date (June 27, 2026) and final score (Belgium 5-1). All details are consistent with the match information provided in the context (match-61)."
+concise,Which club does Obed Goméz Vargas play for and when was he born?,"Obed Goméz Vargas plays for Atlético De Madrid and was born on August 5, 2005.",RELEVANT,"The answer correctly identifies both pieces of information requested. According to the CONTEXT provided for player-18 (Obed Goméz Vargas), his club is listed as ""Atlético De Madrid"" and his birth date is ""2005-08-05"" (August 5, 2005). The answer matches the context exactly."
+concise,What position does Pascal Gross play and how many international caps does he have?,Pascal Gross plays as a midfielder (MID) and has 18 international caps for Germany.,RELEVANT,"The answer correctly identifies that Pascal Gross plays as a midfielder (MID) and has 18 international caps. Both facts are directly supported by the CONTEXT provided in the player bio: ""Pascal Alexander GROß GROß Gross - Germany, position MID"" and ""18 caps"" in the biographical information."
+concise,What was the final score of the Germany vs Curaçao World Cup 2026 match?,"Germany defeated Curaçao 7-1 on June 14, 2026, at Philadelphia Stadium. Kai Lukas Havertz was named player of the match.",RELEVANT,"The answer correctly states the final score of the Germany vs Curaçao match as 7-1 in favor of Germany, which matches the context exactly (match-9). The answer also correctly identifies the date (2026-06-14), venue (Philadelphia Stadium), and player of the match (Kai Lukas Havertz), all of which are confirmed in the provided context. The answer directly and accurately addresses the question asked."
+concise,How many matches did Nicolas Seiwald play in the World Cup?,"Nicolas Seiwald played 4 matches in the World Cup, starting in all 4 of them for Austria.",RELEVANT,"The answer correctly states that Nicolas Seiwald played 4 matches in the World Cup and started in all 4 of them. This is directly supported by the CONTEXT which shows: ""Nicolas Seiwald - Austria, position MID. Tournament stats: 4 matches (4 started), 315 minutes."" The answer accurately reflects the tournament statistics provided."
+concise,How many minutes did Joshua Kimmich play in the World Cup 2026?,"Joshua Kimmich played 353 minutes in the World Cup 2026, appearing in 4 matches (all started).",RELEVANT,"The answer directly and accurately addresses the question. According to the CONTEXT, Joshua Walter Kimmich (player-422) played 353 minutes in the World Cup 2026. The answer correctly states this figure and provides additional accurate details: he appeared in 4 matches and started all 4 of them. All information in the answer matches the tournament stats provided in the context."
+concise,How many goals did Youri Tielemans score in the Belgium-Senegal Round of 32 match?,Youri Tielemans scored 2 goals in the Belgium-Senegal Round of 32 match (89' and 120').,RELEVANT,"The answer correctly states that Youri Tielemans scored 2 goals in the Belgium-Senegal Round of 32 match at times 89' and 120'. This is directly confirmed by the CONTEXT in the key events section of match-81, which shows:
+- 89' Goal - Youri Marion Tielemans (Belgium)
+- 120' Goal - Youri Marion Tielemans (Belgium)
+
+The player statistics also confirm this, showing Tielemans had 2 goals in the tournament, and these two goals were scored in this specific match. The answer is accurate and consistent with the provided context."
+concise,How many clean sheets did Lawrence Ati Zigi keep in the World Cup 2026?,"Lawrence Ati Zigi kept 1 clean sheet in the World Cup 2026, which occurred in Ghana's 1-0 victory over Panama on June 17, 2026.",RELEVANT,"The answer is correct and fully consistent with the context. According to Lawrence Ati Zigi's tournament statistics in the context, he kept 1 clean sheet across his 2 matches. The context also confirms that Ghana played Panama in a Group Stage match on 2026-06-17 (June 17, 2026) with a final score of Ghana 1-0 Panama, and Lawrence Ati Zigi was the goalkeeper for Ghana in that match. A 1-0 victory is consistent with one team keeping a clean sheet. The answer accurately identifies the number of clean sheets (1) and correctly identifies the specific match where it occurred."
+concise,Did Paul Brian Rodriguez score any goals in the World Cup tournament?,"No, Paul Brian Rodriguez did not score any goals in the World Cup tournament. He played 3 matches totaling 38 minutes and had 0 goals.",RELEVANT,"The answer correctly states that Paul Brian Rodriguez did not score any goals in the World Cup tournament. This is directly supported by the CONTEXT, which shows Paul Brian Rodriguez (player-824, Uruguay, FWD) had ""Goals: 0"" in his tournament stats. The answer also accurately cites the supporting details: 3 matches played, 38 minutes total, and 0 goals, which all match the context exactly."
+concise,What is Memphis Depay's current market value?,"Memphis Depay's current market value is EUR 7,000,000.",RELEVANT,"The answer correctly states that Memphis Depay's current market value is EUR 7,000,000. This information is directly found in the CONTEXT under [player] player-530, which explicitly states: ""market value EUR 7000000"". The answer accurately matches the context provided."
+concise,Which player was named player of the match in the Brazil and Morocco game in the 2026 World Cup group stage?,"José Vinicius was named player of the match in the Brazil vs Morocco game on June 13, 2026, which ended in a 1-1 draw.",RELEVANT,"The answer correctly identifies José Vinicius as the player of the match in the Brazil vs Morocco game. According to the context provided in match-6, the ""Player of the match: José Vinicius"" is explicitly stated. The answer also correctly identifies the date (2026-06-13) and the final score (1-1 draw), all of which match the context exactly."
+concise,What is Moonhwan Kim's height and market value?,"Moonhwan Kim's height is 173 cm and his market value is EUR 750,000.",RELEVANT,"The answer correctly states both pieces of information about Moonhwan Kim from the context. According to the player data provided, Moonhwan Kim (player-67) has a height of 173cm and a market value of EUR 750000. The answer matches the context exactly."
+concise,Which country does Joshua Brenet play for and what is his position?,Joshua Brenet plays for Curaçao and his position is defender (DEF).,RELEVANT,"The answer correctly identifies that Joshua Brenet plays for Curaçao and his position is defender (DEF). Both facts are directly supported by the context provided: ""Joshua Benjamin Brenet - Curaçao, position DEF."" The answer accurately addresses the question with information consistent with the tournament data."
+concise,What was the final score of the Mexico vs South Korea game at Guadalajara Stadium?,"The final score of the Mexico vs South Korea game at Guadalajara Stadium was Mexico 1, South Korea 0, played on June 18, 2026.",RELEVANT,"The answer correctly identifies the final score of the Mexico vs South Korea game at Guadalajara Stadium as Mexico 1, South Korea 0, and accurately states the date as June 18, 2026. This information is directly supported by match-25 in the CONTEXT, which shows: ""Group Stage: Mexico 1-0 South Korea (2026-06-18)"" at ""Guadalajara Stadium (Estadio Akron), Zapopan, MEX"" with ""Final score: Mexico 1, South Korea 0."""
+detailed,Where did Argentina play Algeria in the 2026 World Cup group stage?,"# Argentina vs Algeria 2026 World Cup Group Stage Location
+
+According to the provided context, Argentina played Algeria in the 2026 World Cup group stage at **Kansas City Stadium (Arrowhead Stadium) in Kansas City, USA**.
+
+**Match Details:**
+- **Date:** June 16, 2026
+- **Venue:** Kansas City Stadium (Arrowhead Stadium), Kansas City, USA
+- **Capacity:** 76,416
+- **Elevation:** 264m
+- **Final Score:** Argentina 3-0 Algeria
+
+The match was completed with Argentina dominating, with Lionel Messi scoring all three goals (at 17', 60', and 76' minutes).",RELEVANT,"The answer directly and accurately addresses the question about where Argentina played Algeria in the 2026 World Cup group stage. It correctly identifies the venue as Kansas City Stadium (Arrowhead Stadium) in Kansas City, USA, which matches the context provided. The additional details about the match (date, capacity, elevation, final score, and goalscorer information) are all accurate and consistent with the context, providing comprehensive and well-sourced information."
+detailed,How many matches did Kristoffer Vassbakk Köpp Ajer play in the tournament?,"# Answer
+
+Based on the provided context, **Kristoffer Vassbakk Köpp Ajer played 5 matches in the tournament**.
+
+According to his tournament statistics:
+- **5 matches (5 started)**
+- **450 minutes** played
+- 0 goals, 0 assists
+- 0 yellow cards, 0 red cards
+
+He played as a defender (DEF) for Norway and started in all five matches he appeared in.",RELEVANT,"The answer directly and correctly answers the question. The context clearly states that Kristoffer Vassbakk Köpp Ajer played 5 matches in the tournament (5 started), and the answer accurately reports this information. The answer also provides additional relevant context from the player's tournament statistics, which is consistent with the provided data."
+detailed,What group is Jordan in for the 2026 World Cup?,"# Jordan's 2026 World Cup Group
+
+According to the provided context, **Jordan is in Group J** for the 2026 FIFA World Cup.
+
+This information comes from the team profile which states: ""Jordan (JOR) - Group J, AFC.""
+
+Jordan's group stage matches included games against Austria, Algeria, and Argentina, with the team playing at venues including San Francisco Bay Area Stadium (Levi's Stadium) and Dallas Stadium (AT&T Stadium).",RELEVANT,"The answer directly and correctly answers the question. The context explicitly states ""Jordan (JOR) - Group J, AFC"" in the team profile. The answer identifies Jordan as being in Group J, which is accurate and fully supported by the provided context. The additional details about Jordan's matches (against Austria, Algeria, and Argentina) are also consistent with the context provided."
+detailed,Who is the manager of the Ghana national football team for the 2026 World Cup?,"I don't have that information. The provided context contains match details and player statistics from Ghana's 2026 World Cup matches, but it does not include any information about who the manager of the Ghana national football team is for the 2026 World Cup.",NON_RELEVANT,"The answer correctly identifies that the context does not contain information about Ghana's manager for the 2026 World Cup. The provided context only includes match details, player statistics, and match events from Ghana's 2026 World Cup tournament participation. While the answer accurately reflects this limitation, it is technically NON_RELEVANT because it cannot answer the question asked - the necessary information is absent from the context, and the answer acknowledges this rather than providing the requested information."
+detailed,How many games did Belgium play in the tournament and what was their win-loss record?,"# Belgium's FIFA World Cup 2026 Tournament Record
+
+Based on the provided context, **Belgium played 6 games in the tournament** with the following record:
+
+- **Wins: 3**
+- **Draws: 2**
+- **Losses: 1**
+
+## Match-by-Match Results:
+
+1. **Group Stage**: Belgium 0-0 IR Iran (June 21) - Draw
+2. **Round of 32**: Belgium 3-2 Senegal (July 2, AET) - Win
+3. **Round of 16**: USA 1-4 Belgium (July 7) - Win
+4. **Quarter-finals**: Spain 2-1 Belgium (July 10) - Loss
+
+The context indicates Belgium played 6 matches total with 3 wins, 2 draws, and 1 loss, though only 4 matches are detailed in the provided game information. Belgium scored 14 goals and conceded 7 goals across the tournament under manager Domenico Tedesco.",RELEVANT,"The answer correctly identifies Belgium's tournament record: 6 games played with 3 wins, 2 draws, and 1 loss. This matches exactly with the team context data which states ""Tournament record: 6 played, 3 won, 2 drawn, 1 lost."" The answer provides accurate match-by-match results for the games detailed in the context (Iran draw, Senegal win, USA win, Spain loss) and correctly notes that while 6 games were played total, only 4 matches are detailed in the provided information. The answer is comprehensive, well-organized, and fully consistent with all the context provided."
+detailed,"What was the final score of the Scotland vs Morocco match on June 19, 2026?","# Scotland vs Morocco Final Score (June 19, 2026)
+
+**Final Score: Scotland 0-1 Morocco**
+
+## Match Details
+
+- **Competition:** Group Stage
+- **Venue:** Boston Stadium (Gillette Stadium), Foxborough, USA
+- **Match ID:** match-30
+
+## Key Statistics
+
+- **Expected Goals (xG):** Scotland 0.97, Morocco 0.54
+- **Possession:** Scotland 41%, Morocco 59%
+- **Shots (On Target):** Scotland 6 (0 on target), Morocco 12 (4 on target)
+
+## Goal
+
+Morocco scored early in the match:
+- **2nd Minute:** Ismael Saibari scored, with an assist from Brahim Diaz
+
+**Player of the Match:** Ismael Saibari
+
+**Referee:** Anthony Taylor",RELEVANT,"The answer correctly provides the final score of Scotland 0-1 Morocco on June 19, 2026, and includes accurate supporting details from the context. All information matches the provided tournament data from match-30: the venue (Boston Stadium/Gillette Stadium in Foxborough), the goal scorer and assist details (Ismael Saibari scoring in the 2nd minute with assist from Brahim Diaz), expected goals statistics, possession percentages, shot statistics, player of the match (Ismael Saibari), and referee name (Anthony Taylor). The answer comprehensively and accurately addresses the question using only information from the provided context."
+detailed,How many matches did Waheeb Mohammed Abu Alshamat play in the World Cup tournament?,"Based on the provided context, **Waheeb Mohammed Abu Alshamat played 3 matches** in the World Cup tournament.
+
+According to his tournament stats, he appeared in 3 matches total, though he started in only 1 of those matches, accumulating 136 minutes of playing time.",RELEVANT,"The answer directly and correctly addresses the question. The context clearly states that Waheeb Mohammed Abu Alshamat had ""3 matches (1 started)"" in his tournament stats. The answer accurately reports that he played in 3 matches and provides the additional accurate detail that he started in only 1 of those matches with 136 minutes played. This is consistent with and supported by the context provided."
+detailed,What was the final score of the Senegal vs Iraq match in the 2026 World Cup group stage?,"# Senegal vs Iraq Final Score - 2026 World Cup Group Stage
+
+**Final Score: Senegal 5-0 Iraq**
+
+The match took place on **June 26, 2026** at Toronto Stadium (BMO Field) in Toronto, Canada.
+
+## Match Details:
+
+**Senegal's Goals:**
+- 4' - Habib Mbacke Diarra (assist: Abdoulaye Seck)
+- 56' - Ismaila Sarr (assist: Lamine Camara)
+- 59' - Pape Alassane Gueye (assist: Ismaila Sarr)
+- 71' - Pape Alassane Gueye (assist: Iliman Cheikh Baroy Ndiaye)
+- 82' - Iliman Cheikh Baroy Ndiaye (assist: Pape Alassane Gueye)
+
+**Key Statistics:**
+- Senegal dominated with 69% possession and 28 shots (12 on target)
+- Iraq had only 31% possession with 6 shots (1 on target)
+- Expected goals favored Senegal significantly at 3.01 xG vs Iraq's 0.14 xG
+- Iraq played with a disadvantage after Ghareeb Solaka Rebin Sulaka received a red card in the 13th minute
+- **Player of the Match:** Iliman Cheikh Baroy Ndiaye (Senegal)",RELEVANT,"The answer correctly identifies the final score of the Senegal vs Iraq match as 5-0 in favor of Senegal, matching the context exactly. The answer provides comprehensive and accurate details including the date (June 26, 2026), venue (Toronto Stadium/BMO Field in Toronto, Canada), all five goalscorers with correct times and assists, key statistics (possession percentages, shots, xG values), the red card incident in the 13th minute, and correctly identifies the Player of the Match as Iliman Cheikh Baroy Ndiaye. All information is consistent with and directly sourced from the provided context."
+detailed,How many international caps does Oscar Bobb have?,"Based on the provided context, **Oscar Bobb has 21 international caps**.
+
+This information is found in his player bio, which states he was born on 2003-07-12, plays as a midfielder for Norway, and currently plays for Fulham FC with a market value of EUR 28,000,000.",RELEVANT,"The answer correctly identifies that Oscar Bobb has 21 international caps, which is explicitly stated in the CONTEXT provided in his player bio (player-932). The answer is accurate and directly addresses the question asked."
+detailed,How many international caps does Christian Andreas Fassnacht have?,"According to the provided context, Christian Andreas Fassnacht has **23 international caps** for Switzerland.",RELEVANT,"The answer correctly identifies that Christian Andreas Fassnacht has 23 international caps, which is directly stated in the CONTEXT provided. The answer is accurate and fully addresses the question asked."
+detailed,What is Kristian Thorstvedt's current club and market value?,"Based on the provided context:
+
+**Kristian Thorstvedt's Current Club:** US Sassuolo
+
+**Market Value:** EUR 12,000,000
+
+This information comes from his player profile (player-928), which indicates he is a Norwegian midfielder who has earned 38 caps for his national team.",RELEVANT,"The answer correctly identifies Kristian Thorstvedt's current club as US Sassuolo and his market value as EUR 12,000,000, both of which match exactly with the information provided in the CONTEXT under player-928. The answer is accurate, complete, and directly addresses the question asked."
+detailed,How many clean sheets did Bo Kristoffer Nordfeldt have in the tournament?,"Based on the provided context, **Bo Kristoffer Nordfeldt had 0 clean sheets** in the tournament.
+
+According to his tournament statistics, the Swedish goalkeeper played 2 matches (2 started) for 180 minutes total, during which he conceded 6 goals and made 8 saves, but recorded 0 clean sheets.",RELEVANT,"The answer directly and correctly addresses the question. According to the CONTEXT provided, Bo Kristoffer Nordfeldt's tournament stats clearly state ""Goalkeeping: 0 clean sheets, 8 saves, 6 conceded."" The answer accurately reports that he had 0 clean sheets and provides supporting details (2 matches, 180 minutes, 6 goals conceded, 8 saves) that are all consistent with the context. The answer is factually accurate, complete, and well-supported by the provided data."
+detailed,What is John Stones' current club and market value?,"# John Stones' Current Club and Market Value
+
+Based on the provided context:
+
+- **Current Club:** Manchester City FC
+- **Market Value:** EUR 12,000,000
+
+John Stones is an England defender who participated in the FIFA World Cup 2026, appearing in 4 matches (2 started) for a total of 211 minutes played.",RELEVANT,"The answer correctly identifies John Stones' current club as Manchester City FC and his market value as EUR 12,000,000, both of which are directly stated in the CONTEXT provided. The answer also includes additional relevant details about his tournament participation, which are consistent with the context. The answer directly and accurately addresses the question asked."
+detailed,What is Ibrahima Konate's height and market value?,"# Ibrahima Konate's Height and Market Value
+
+Based on the provided context, here are Ibrahima Konate's details:
+
+- **Height:** 194 cm
+- **Market Value:** EUR 45,000,000
+
+**Additional Information:**
+Ibrahima Konate is a defender for France who plays for Liverpool FC. He was born on May 25, 1999, and has earned 28 caps for the French national team.",RELEVANT,"The answer correctly identifies Ibrahima Konate's height as 194 cm and market value as EUR 45,000,000, both of which are explicitly stated in the CONTEXT provided (player-847). The additional information about his position (DEF), club (Liverpool FC), nationality (France), birth date (1999-05-25), and caps (28) are all consistent with the context data. The answer directly and accurately addresses the question asked."
+detailed,What was South Korea's FIFA ranking before the 2026 World Cup?,"Based on the provided context, **South Korea's FIFA ranking before the 2026 World Cup was 22**.
+
+This information is found in the team profile for South Korea, which states: ""Pre-tournament FIFA ranking: 22, Elo rating: 1800.""",RELEVANT,"The answer correctly identifies South Korea's FIFA ranking before the 2026 World Cup as 22. This information is explicitly stated in the CONTEXT under the [team] team-3 section: ""Pre-tournament FIFA ranking: 22, Elo rating: 1800."" The answer accurately quotes the relevant source material and directly addresses the question asked."
+detailed,"What was the final score of the match between Norway and England on July 11, 2026?","# Final Score: Norway 1-2 England (July 11, 2026)
+
+Based on the provided context, the Quarter-finals match between Norway and England on July 11, 2026, ended with **England winning 2-1**.
+
+## Match Details:
+
+**Venue:** Miami Stadium (Hard Rock Stadium), Miami Gardens, USA
+
+**Result Type:** AET (After Extra Time)
+
+**Goalscorers:**
+- **Norway (1):** Andreas Rædergård Schjelderup (36') - assisted by Martín Odegaard
+- **England (2):** 
+  - Jude Victor William Bellingham (45') - assisted by Anthony Michael Gordon
+  - Jude Victor William Bellingham (93') - the winning goal in extra time
+
+**Player of the Match:** Jude Victor William Bellingham
+
+**Possession:** Norway 42%, England 58%
+
+**Shots:** Norway 9 (3 on target), England 14 (5 on target)
+
+England advanced to the semi-finals with this extra-time victory, with Bellingham scoring both goals including the decisive golden goal in the 93rd minute.",RELEVANT,"The answer correctly identifies the final score of the match between Norway and England on July 11, 2026, as Norway 1-2 England. All key details provided in the answer match the context perfectly, including: the match being a Quarter-finals game, the venue (Miami Stadium/Hard Rock Stadium), the result type (AET - After Extra Time), the goalscorers and their times, the assists, the Player of the Match (Jude Bellingham), possession statistics, and shot statistics. The answer directly and accurately answers the question posed."
+detailed,"What was the final score of the Türkiye vs USA match on June 25, 2026?","# Türkiye vs USA Final Score - June 25, 2026
+
+**Final Score: Türkiye 3, USA 2**
+
+This Group Stage match was played at SoFi Stadium in Inglewood, USA.
+
+## Match Details:
+
+**Goals Scored:**
+- **3'** - Auston Trusty (USA) - Assisted by Sebastian Berhalter
+- **10'** - Arda Guler (Türkiye) - Assisted by Can Yılmaz Uzun
+- **31'** - Orkun Kokcu (Türkiye) - Assisted by Evren Eren Elmali
+- **49'** - Sebastian Berhalter (USA)
+- **90'** - Kaan Ayhan (Türkiye)
+
+**Match Statistics:**
+- Expected Goals (xG): Türkiye 1.62, USA 1.45
+- Possession: Türkiye 48%, USA 52%
+- Shots on Target: Türkiye 7 of 14, USA 5 of 13
+- Player of the Match: Arda Guler
+- Referee: Daniele Orsato",RELEVANT,"The answer correctly identifies the final score of Türkiye 3, USA 2 for the match on June 25, 2026, which matches the context exactly. The answer also provides comprehensive and accurate match details including the venue (SoFi Stadium), all goal scorers with times and assists, match statistics (xG, possession, shots on target), player of the match (Arda Guler), and the referee (Daniele Orsato). All information is consistent with and directly sourced from the provided context."
+detailed,How many international caps does Ramón Sosa have for Paraguay?,"Based on the provided context, **Ramón Sosa has 30 international caps for Paraguay**.
+
+This information comes from his player bio, which states: ""30 caps, born 1999-08-31, height 178cm.""",RELEVANT,"The answer correctly identifies that Ramón Sosa has 30 international caps for Paraguay. This information is directly extracted from the player bio in the context, which explicitly states ""30 caps"" for Ramón Sosa (player-345). The answer accurately cites the source and provides the correct information as specified in the CONTEXT provided."
+detailed,Who scored for Portugal in their match against Croatia in the 2026 World Cup?,"# Portugal's Goalscorers vs Croatia (Round of 32, 2026-07-03)
+
+Based on the provided context, **two players scored for Portugal** in their 2-1 victory over Croatia:
+
+1. **Cristiano Ronaldo** - scored in the 68th minute
+2. **Gonçalo Ramos** - scored in the 90th minute (with an assist from Alexandre Rafael Leao)
+
+The match was played at Toronto Stadium (BMO Field) in Toronto, Canada, with Cristiano Ronaldo named Player of the Match.",RELEVANT,"The answer correctly identifies both goalscorers for Portugal in their match against Croatia on 2026-07-03. According to the context, Cristiano Ronaldo scored in the 68th minute and Gonçalo Ramos scored in the 90th minute. The answer also accurately includes supporting details such as the venue (Toronto Stadium/BMO Field), the final score (2-1), and that Ronaldo was Player of the Match. All information provided is consistent with and directly sourced from the context."
+detailed,What was Morocco's FIFA ranking before the 2026 World Cup tournament started?,"# Morocco's FIFA Ranking Before the 2026 World Cup
+
+According to the provided context, **Morocco's pre-tournament FIFA ranking was 7**.
+
+This information comes from Morocco's team profile, which also notes they had an Elo rating of 1920 and were managed by Walid Regragui at the start of the tournament.",RELEVANT,"The answer directly and correctly addresses the question. The context explicitly states ""Pre-tournament FIFA ranking: 7"" for Morocco, and the answer accurately cites this information. The answer is concise, accurate, and fully consistent with the provided context."
+detailed,What is Logan Tipene Rogerson's height and market value?,"Based on the provided context:
+
+**Logan Tipene Rogerson's height:** 182cm
+
+**Logan Tipene Rogerson's market value:** EUR 400,000",RELEVANT,"The answer correctly identifies both pieces of information requested about Logan Tipene Rogerson from the context. The height of 182cm and market value of EUR 400,000 are directly extracted from the player profile (player-709) in the provided context and match exactly."
+detailed,How tall is the Colombian midfielder Jhon Adolfo Arias and when was he born?,"# Jhon Adolfo Arias - Height and Birth Date
+
+Based on the provided context:
+
+- **Birth Date:** September 21, 1997 (1997-09-21)
+- **Height:** 168 cm
+
+Jhon Adolfo Arias is a Colombian midfielder who plays for SE Palmeiras. During the FIFA World Cup 2026, he had an impressive tournament, playing in 5 matches (all starts) for 406 minutes, scoring 1 goal and earning Player of the Match honors in both the Round of 32 match against Ghana and the Round of 16 match against Switzerland.",RELEVANT,"The answer directly and accurately addresses the question by providing both pieces of requested information from the context: Jhon Adolfo Arias's height (168 cm) and birth date (September 21, 1997). The biographical information is correctly extracted from the player profile in the context. The additional context about his tournament performance is accurate but supplementary to the main question. All facts stated match the provided context precisely."
+detailed,What is Tajon Buchanan's current club and market value?,"Based on the provided context:
+
+**Tajon Buchanan's Current Club:** Villarreal CF
+
+**Market Value:** EUR 12,000,000
+
+This information comes from his player profile in the context, which indicates he is a forward for Canada who played 4 matches (293 minutes total) in the tournament with 0 goals and 0 assists.",RELEVANT,"The answer correctly identifies Tajon Buchanan's current club as Villarreal CF and his market value as EUR 12,000,000, both of which are directly stated in the CONTEXT under player-121. The additional tournament statistics provided are also accurate and drawn from the same source."
+detailed,What is Belgium's FIFA ranking heading into the 2026 World Cup?,"# Belgium's FIFA Ranking Heading into the 2026 World Cup
+
+According to the provided context, **Belgium's pre-tournament FIFA ranking was 9th** heading into the 2026 World Cup.
+
+The context also notes that Belgium had an Elo rating of 1950 and were managed by Domenico Tedesco during the tournament.",RELEVANT,"The answer directly and accurately addresses the question by citing Belgium's pre-tournament FIFA ranking as 9th, which is explicitly stated in the CONTEXT under the [team] team-25 entry: ""Pre-tournament FIFA ranking: 9"". The answer correctly identifies this as the ranking ""heading into the 2026 World Cup"" and is fully consistent with the provided context. The additional information about Elo rating and manager, while not directly requested, adds relevant context without contradicting anything."
+detailed,Who is the manager of the Norwegian national football team for the World Cup?,"I don't have that information in the provided context. While the context includes information about Norwegian players (Thelonious Gerard Aasgaard and Henrik Sælebakke Falchener), it does not contain details about the manager of the Norwegian national football team for the World Cup.
+
+The context only provides manager information for Portugal (Roberto Martínez), Colombia (Néstor Lorenzo), and Mexico (Javier Aguirre), but not for Norway.",RELEVANT,"The answer correctly identifies that the provided context does not contain information about the Norwegian national football team manager. The answer accurately notes that while Norwegian players are mentioned in the context, there is no team entry for Norway that would include manager information. The answer is honest about the limitation of the context rather than speculating or using outside knowledge. This is the appropriate and accurate response given the instructions to judge only against the provided context."
+detailed,How many goals did Erling Braut Haaland score against Iraq in the 2026 World Cup group stage?,"# Erling Braut Haaland's Goals Against Iraq
+
+Based on the provided context, **Erling Braut Haaland scored 2 goals** against Iraq in the 2026 World Cup group stage.
+
+## Details:
+
+The match was Iraq 1-4 Norway on June 16, 2026, at Gillette Stadium in Foxborough, USA.
+
+Haaland's goals came at:
+- **29th minute** - assisted by David Møller Moller Wolfe
+- **43rd minute** - no assist listed
+
+Haaland was named Player of the Match for this performance. According to his tournament statistics in the context, he scored 7 goals total across 5 matches in the tournament.",RELEVANT,"The answer correctly identifies that Erling Braut Haaland scored 2 goals against Iraq in the 2026 World Cup group stage. The match details are accurate (Iraq 1-4 Norway on 2026-06-16 at Gillette Stadium), the goal times are correct (29th and 43rd minutes), and the assist information is properly cited from the context. The answer also appropriately notes that Haaland was Player of the Match and references his tournament statistics. All information in the answer is directly supported by the CONTEXT provided."
+detailed,What club does Benjamin Asare play for and what is his market value?,"Based on the provided context:
+
+**Benjamin Asare** plays for **Hearts Of Oak SC** and his market value is **EUR 100,000**.",RELEVANT,"The answer directly and accurately addresses both parts of the question. According to the context provided (player-1212), Benjamin Asare from Ghana plays as a goalkeeper for Hearts Of Oak SC and has a market value of EUR 100,000. The answer matches the context exactly."
+detailed,How many minutes did Lyle Brent Foster play in the World Cup?,"Based on the provided context, **Lyle Brent Foster played 56 minutes in the World Cup**.
+
+According to his tournament statistics, he appeared in 1 match (1 started) and played a total of 56 minutes.",RELEVANT,"The answer directly and correctly addresses the question. According to the context provided under player-35 (Lyle Brent Foster), his tournament statistics show ""1 matches (1 started), 56 minutes."" The answer accurately states that Lyle Brent Foster played 56 minutes in the World Cup, which matches the context exactly."
+detailed,How many minutes did Guesung Cho play in the World Cup tournament?,"Based on the provided context, **Guesung Cho played 29 minutes** in the World Cup tournament.
+
+According to his tournament statistics, he appeared in 2 matches without starting in either one, accumulating a total of 29 minutes of playing time. He did not score any goals or provide any assists during the tournament.",RELEVANT,"The answer directly and accurately addresses the question. The context clearly states that Guesung Cho had ""2 matches (0 started), 29 minutes"" in his tournament stats. The answer correctly identifies that he played 29 minutes total, which matches the context exactly. The additional details provided (2 matches, 0 starts, 0 goals, 0 assists) are all consistent with and directly sourced from the context provided."
+detailed,How many matches did Mostafa Ahmed Lashin play in the tournament?,"Based on the provided context, **Mostafa Ahmed Lashin played 3 matches in the tournament**.
+
+Specifically, according to his tournament statistics, he:
+- Played in 3 matches (3 started)
+- Accumulated 270 minutes of playing time
+- Recorded 0 goals and 0 assists
+- Received 0 yellow and 0 red cards",RELEVANT,"The answer correctly states that Mostafa Ahmed Lashin played 3 matches in the tournament. This directly matches the CONTEXT provided, which clearly states ""Tournament stats: 3 matches (3 started), 270 minutes"" for player-667 (Mostafa Ahmed Mohanad Lashin - Egypt). The answer also provides accurate supporting details including that he started all 3 matches, played 270 minutes total, and had 0 goals and 0 assists, all of which are consistent with the context."
+detailed,Who scored the goal in Ghana vs Panama at the 2026 World Cup?,"# Ghana vs Panama Goal Scorer at 2026 World Cup
+
+Based on the provided context, **Caleb Marfo Yirenkyi** scored the goal in Ghana's 1-0 victory over Panama.
+
+## Match Details:
+- **Final Score:** Ghana 1, Panama 0
+- **Date:** June 17, 2026
+- **Venue:** Toronto Stadium (BMO Field), Toronto, Canada
+- **Goal Time:** 90th minute
+- **Assist:** Antoine Serlom Semenyo (Ghana)
+
+Notably, Antoine Serlom Semenyo, who provided the assist for Yirenkyi's goal, was named Player of the Match for his performance in this Group Stage encounter.",RELEVANT,"The answer directly and accurately addresses the question. According to the context (match-23), Caleb Marfo Yirenkki scored the goal in Ghana's 1-0 victory over Panama on June 17, 2026 in the 90th minute, with an assist from Antoine Serlom Semenyo. All details provided in the answer are consistent with and directly sourced from the context provided."
+detailed,Did Jearl Erwin Margaritha score any goals or receive any cards in the tournament?,"Based on the provided context, **Jearl Erwin Margaritha did not score any goals or receive any cards in the tournament**.
+
+According to his tournament statistics:
+- **Goals: 0**
+- **Assists: 0**
+- **Yellow cards: 0**
+- **Red cards: 0**
+
+Margaritha, a forward for Curaçao, appeared in 2 matches during the tournament but did not start in either game, accumulating 40 minutes of playing time total.",RELEVANT,"The answer correctly and completely addresses the question based on the provided context. It accurately states that Jearl Erwin Margaritha did not score any goals (0 goals) and did not receive any cards (0 yellow, 0 red), which directly matches the tournament statistics provided in the player data. The answer also appropriately provides supporting details about his playing time and position, all of which are consistent with the context."
+detailed,How many goals did Riyad Karim Mahrez score against Austria in the 2026 World Cup group stage?,"# Riyad Karim Mahrez Goals Against Austria
+
+Based on the provided context, **Riyad Karim Mahrez scored 2 goals against Austria** in the 2026 World Cup group stage match.
+
+## Match Details
+
+The match was played on **June 27, 2026** at Kansas City Stadium (Arrowhead Stadium) in Kansas City, USA, with a final score of **Algeria 3-3 Austria**.
+
+Mahrez's two goals came at:
+- **60th minute** - assisted by Houssem-Eddine Chaabane Aouar
+- **90th minute** - assisted by Houssem-Eddine Chaabane Aouar
+
+Additionally, Mahrez provided one assist in the match (to Rafik Belghali in the 45th minute) and was named **Player of the Match** for his performance.",RELEVANT,"The answer correctly identifies that Riyad Karim Mahrez scored 2 goals against Austria in the 2026 World Cup group stage. The specific details provided—the match date (June 27, 2026), location (Kansas City Stadium/Arrowhead Stadium), final score (Algeria 3-3 Austria), the minute marks of the goals (60th and 90th), the assists provided by Houssem-Eddine Chaabane Aouar, Mahrez's assist to Rafik Belghali, and his Player of the Match award—all align precisely with the context provided. The answer fully and accurately addresses the question."
+detailed,How many international caps does the New Zealand defender Francis De Vries have?,"According to the provided context, **Francis De Vries has 20 international caps** for New Zealand.
+
+This information is found in his player bio, which states: ""20 caps, born 1994-11-28, height 181cm.""",RELEVANT,"The answer directly and correctly answers the question. The CONTEXT clearly states in Francis De Vries's bio (player-705) that he has ""20 caps."" The answer accurately cites this information and provides the exact figure requested."
+detailed,Who scored the goals in Mexico's victory over Czechia in their World Cup group stage match?,"# Mexico's Goals in Victory over Czechia
+
+Mexico defeated Czechia 3-0 in their World Cup group stage match on June 24, 2026, at Mexico City Stadium (Estadio Azteca). The three goal scorers were:
+
+1. **Mateo Chavez** (55') - assisted by Luis Francisco Romo
+2. **Julián Andrés Quinones** (61') - assisted by Jorge Eduardo Sanchez
+3. **Álvaro Fidalgo** (90') - assisted by Roberto Carlos Alvarado
+
+Mateo Chavez was named Player of the Match for his performance in this victory.",RELEVANT,"The answer correctly identifies all three goal scorers in Mexico's 3-0 victory over Czechia on June 24, 2026: Mateo Chavez (55'), Julián Andrés Quinones (61'), and Álvaro Fidalgo (90'). The answer accurately includes the assists and times for each goal, matches all details in the context, and correctly notes that Mateo Chavez was named Player of the Match. The information is complete and consistent with the provided tournament data."
+detailed,What was the final score of the match between Curaçao and Côte d'Ivoire played in Philadelphia?,"# Final Score: Curaçao vs Côte d'Ivoire
+
+**Final Score: Curaçao 0 - 2 Côte d'Ivoire**
+
+**Match Details:**
+- **Date:** June 26, 2026
+- **Location:** Philadelphia Stadium (Lincoln Financial Field), Philadelphia, USA
+- **Stage:** Group Stage
+- **Status:** Completed
+
+**Goals:**
+- 7' - Nicolas Pepe (Côte d'Ivoire)
+- 64' - Nicolas Pepe (Côte d'Ivoire)
+
+Côte d'Ivoire dominated the match, with 59% possession and 16 shots (7 on target) compared to Curaçao's 41% possession and 7 shots (2 on target). Nicolas Pepe was named Player of the Match.",RELEVANT,"The answer correctly identifies the final score as Curaçao 0 - 2 Côte d'Ivoire and provides accurate match details including the date (June 26, 2026), venue (Philadelphia Stadium/Lincoln Financial Field), stage (Group Stage), and completion status. All provided information matches the CONTEXT exactly: both goals by Nicolas Pepe (7' and 64'), possession statistics (Curaçao 41%, Côte d'Ivoire 59%), shot statistics (Curaçao 7 shots with 2 on target, Côte d'Ivoire 16 shots with 7 on target), and Player of the Match designation for Nicolas Pepe. The answer comprehensively and accurately addresses the question with full consistency to the provided context."
+detailed,Where did the Belgium and New Zealand play their World Cup group stage match?,"# Where Belgium and New Zealand Played Their World Cup Match
+
+Belgium and New Zealand played their Group Stage match at **Vancouver Stadium (BC Place) in Vancouver, Canada** on June 27, 2026.
+
+The match resulted in a **5-1 victory for Belgium** over New Zealand. Belgium dominated the match with 65% possession and 22 shots (12 on target), while New Zealand had 35% possession with 6 shots (2 on target). Leandro Trossard was named Player of the Match, scoring twice in the match.",RELEVANT,"The answer correctly identifies the venue of the Belgium vs New Zealand match as Vancouver Stadium (BC Place) in Vancouver, Canada, which matches the context exactly. The answer also provides additional relevant details from the context including the date (June 27, 2026), the final score (5-1 Belgium victory), possession statistics, shots on target, and Leandro Trossard being named Player of the Match. All facts stated in the answer are consistent with and supported by the provided context."
+detailed,Which club does Obed Goméz Vargas play for and when was he born?,"Based on the provided context:
+
+**Club:** Obed Goméz Vargas plays for **Atlético De Madrid**
+
+**Date of Birth:** He was born on **August 5, 2005** (2005-08-05)
+
+Additional information from the context shows he is a Mexican midfielder with a market value of EUR 10,000,000, who appeared in 1 match during the tournament for 17 minutes without scoring or assisting.",RELEVANT,"The answer correctly identifies both pieces of information requested: Obed Goméz Vargas plays for Atlético De Madrid and was born on August 5, 2005 (2005-08-05). Both facts are directly stated in the context under player-18, and the answer matches the context exactly. The additional biographical details provided are also accurate according to the context."
+detailed,What position does Pascal Gross play and how many international caps does he have?,"# Pascal Gross - Position and International Caps
+
+Based on the provided context:
+
+**Position:** Pascal Gross plays as a **midfielder (MID)**.
+
+**International Caps:** He has **18 caps** for Germany.
+
+Additional context from his bio shows he plays for Brighton & Hove Albion FC, was born on June 15, 1991, and stands 181cm tall. During the 2026 World Cup tournament, he appeared in 1 match (0 starts) for 17 minutes with no goals or assists.",RELEVANT,"The answer correctly identifies Pascal Gross's position as midfielder (MID) and states he has 18 caps for Germany. Both of these facts are directly supported by the player bio in the CONTEXT which explicitly states ""position MID"" and ""18 caps"". The additional biographical details provided (club, birth date, height, tournament statistics) are also accurate based on the CONTEXT. The answer directly and accurately addresses the question asked."
+detailed,What was the final score of the Germany vs Curaçao World Cup 2026 match?,"# Germany vs Curaçao Final Score
+
+**Final Score: Germany 7, Curaçao 1**
+
+This Group Stage match was played on **June 14, 2026** at Philadelphia Stadium (Lincoln Financial Field) in Philadelphia, USA.
+
+## Key Match Details:
+
+- **Player of the Match:** Kai Lukas Havertz
+- **Referee:** Clément Turpin
+- **Expected Goals (xG):** Germany 4.82, Curaçao 0.44
+
+## Germany's Goals:
+- 6' - Felix Kalu Nmecha (assist: Florian Richard Wirtz)
+- 38' - Nico Cédric Schlotterbeck (assist: Nathaniel Christopher Brown)
+- 45' - Kai Lukas Havertz
+- 47' - Jamal Musiala (assist: Joshua Walter Kimmich)
+- 68' - Nathaniel Christopher Brown (assist: Deniz Undav)
+- 78' - Deniz Undav (assist: Joshua Walter Kimmich)
+- 88' - Kai Lukas Havertz (assist: Deniz Undav)
+
+## Curaçao's Goal:
+- 21' - Livano Shyron Liomar Comenencia",RELEVANT,"The answer correctly provides the final score of Germany 7, Curaçao 1 from the Group Stage match on June 14, 2026. All details provided match the context exactly, including the date, venue, player of the match, referee, xG statistics, and the complete goal-by-goal breakdown with scorers and assist providers. The answer directly and accurately addresses the question asked."
+detailed,How many matches did Nicolas Seiwald play in the World Cup?,"# Nicolas Seiwald's World Cup Matches
+
+According to the provided context, **Nicolas Seiwald played in 4 matches** at the World Cup.
+
+**Details:**
+- **Matches played:** 4 (all 4 started)
+- **Total minutes:** 315 minutes
+- **Goals:** 0
+- **Assists:** 1
+- **Cards:** 0 yellow, 0 red
+
+Nicolas Seiwald is an Austrian midfielder who plays for RB Leipzig.",RELEVANT,"The answer correctly states that Nicolas Seiwald played in 4 matches at the World Cup, which matches the CONTEXT exactly. The answer also provides additional accurate details from the context including that he started all 4 matches, played 315 minutes, scored 0 goals, had 1 assist, and received 0 cards. The biographical information that he is an Austrian midfielder playing for RB Leipzig is also consistent with the context provided."
+detailed,How many minutes did Joshua Kimmich play in the World Cup 2026?,"Based on the provided context, **Joshua Kimmich played 353 minutes** in the World Cup 2026.
+
+According to his tournament statistics, he appeared in 4 matches, starting all 4 of them, and accumulated a total of 353 minutes of playing time. During this tournament, he recorded 2 assists but did not score any goals and received no cards (0 yellow, 0 red).",RELEVANT,"The answer directly and correctly answers the question. It states that Joshua Kimmich played 353 minutes in the World Cup 2026, which matches exactly with the tournament statistics provided in the context (player-422: ""353 minutes""). The answer also provides appropriate supporting details from the context (4 matches, 4 starts, 2 assists, 0 goals, 0 cards) that are all accurate and consistent with the provided data."
+detailed,How many goals did Youri Tielemans score in the Belgium-Senegal Round of 32 match?,"# Youri Tielemans Goals in Belgium vs Senegal
+
+Based on the provided context, **Youri Tielemans scored 2 goals** in the Belgium-Senegal Round of 32 match on July 2, 2026.
+
+## Goal Details:
+
+1. **89th minute** - Goal assisted by Leandro Trossard
+2. **120th minute** - Goal (in extra time)
+
+Belgium won the match 3-2 after extra time (AET), and Tielemans was named **Player of the Match**. His two goals were crucial in securing Belgium's advancement to the Round of 16.",RELEVANT,"The answer correctly states that Youri Tielemans scored 2 goals in the Belgium-Senegal Round of 32 match. This is directly supported by the context, which shows two goal entries for Tielemans: one at 89' assisted by Leandro Trossard, and another at 120' in extra time. The answer also correctly identifies the match details (3-2 final score, 2026-07-02, AET result), mentions his Player of the Match award, and accurately lists both goal times. The answer is consistent with all relevant information provided in the context."
+detailed,How many clean sheets did Lawrence Ati Zigi keep in the World Cup 2026?,"# Lawrence Ati Zigi's Clean Sheets at World Cup 2026
+
+Based on the provided context, **Lawrence Ati Zigi kept 1 clean sheet** during the FIFA World Cup 2026.
+
+## Supporting Details:
+
+According to his tournament statistics:
+- **2 matches played (2 started)**
+- **136 minutes played**
+- **1 clean sheet, 12 saves, 1 goal conceded**
+
+## Match Analysis:
+
+The clean sheet came in the **Group Stage match on June 17, 2026: Ghana 1-0 Panama** at BMO Field in Toronto, Canada. In this match, Ati Zigi made 5 saves while keeping a clean sheet.
+
+In his other match during the tournament, the **Round of 32 on July 4, 2026: Colombia 1-0 Ghana**, Ghana conceded 1 goal, so this did not result in a clean sheet despite Ati Zigi making 7 saves.",RELEVANT,"The answer correctly identifies that Lawrence Ati Zigi kept 1 clean sheet at World Cup 2026, which matches the tournament statistics provided in the CONTEXT. The answer accurately cites his overall statistics (2 matches, 2 started, 136 minutes, 1 clean sheet, 12 saves, 1 goal conceded) and correctly identifies the Ghana 1-0 Panama match as the clean sheet game. The answer also correctly notes the Colombia 1-0 Ghana match where Ghana conceded and no clean sheet was recorded. All details provided are consistent with the CONTEXT data."
+detailed,Did Paul Brian Rodriguez score any goals in the World Cup tournament?,"# Answer
+
+**No, Paul Brian Rodriguez did not score any goals in the World Cup tournament.**
+
+According to the player statistics provided, Paul Brian Rodriguez (Uruguay, Forward) had the following tournament performance:
+
+- **Goals: 0**
+- Matches: 3 (0 started)
+- Minutes played: 38
+- Assists: 0
+- Penalty goals: 0
+
+He appeared in 3 matches as a substitute, accumulating 38 minutes of playing time, but failed to find the back of the net during the tournament.",RELEVANT,"The answer directly and correctly addresses the question. It clearly states that Paul Brian Rodriguez did not score any goals in the World Cup tournament, citing the exact statistics from the context (Goals: 0). The answer also provides additional relevant details from the context such as his 3 matches played (0 started), 38 minutes played, and confirms he had 0 assists and 0 penalty goals. All information provided is consistent with and accurately reflects the player data in the context."
+detailed,What is Memphis Depay's current market value?,"Based on the provided context, **Memphis Depay's current market value is EUR 7,000,000**.
+
+This information comes from his player profile, which lists him as a Forward (FWD) for the Netherlands with 110 caps. During the FIFA World Cup 2026, he played 3 matches (0 started) for 51 minutes, recording 0 goals and 1 assist, including an assist in the Netherlands' 5-1 victory over Sweden on June 20, 2026.",NON_RELEVANT,"The answer claims Memphis Depay's current market value is EUR 7,000,000, but this information does NOT appear in the provided context. The context contains information about Memphis Depay as player-530 (his tournament stats and biographical details), but his market value is NOT listed in his player profile. The only market values shown in the context belong to other players: Mc (EUR 20,375,657), Amar Dedic (EUR 16,000,000), and Nikola Moro (EUR 7,000,000). The answer appears to have confused Depay's data with Nikola Moro's profile, which also shows EUR 7,000,000 as market value. Since the context does not contain Memphis Depay's market value, the question cannot be answered from the provided context."
+detailed,Which player was named player of the match in the Brazil and Morocco game in the 2026 World Cup group stage?,"Based on the provided context, **José Vinicius** was named player of the match in the Brazil vs Morocco game during the 2026 World Cup group stage.
+
+The match details are:
+- **Date:** June 13, 2026
+- **Location:** New York New Jersey Stadium (MetLife Stadium), East Rutherford, USA
+- **Final Score:** Brazil 1-1 Morocco
+- **Player of the Match:** José Vinicius
+
+Notably, José Vinicius also scored Brazil's goal in the 32nd minute, with an assist from Bruno Guimarães.",RELEVANT,"The answer correctly identifies José Vinicius as the player of the match in the Brazil vs Morocco game during the 2026 World Cup group stage. All details provided in the answer are consistent with the context: the match was played on June 13, 2026, at New York New Jersey Stadium (MetLife Stadium) in East Rutherford, USA; the final score was 1-1; José Vinicius is explicitly listed as ""Player of the match"" in the context; and he did score Brazil's goal in the 32nd minute with an assist from Bruno Guimarães (listed as ""GUIMARAESBruno Bruno"" in the context). The answer directly and accurately addresses the question."
+detailed,What is Moonhwan Kim's height and market value?,"Based on the provided context, **Moonhwan Kim's height is 173cm and his market value is EUR 750,000**.",RELEVANT,"The answer correctly identifies Moonhwan Kim's height as 173cm and his market value as EUR 750,000, which matches exactly with the context provided in player-67's bio information. The answer directly and accurately addresses both parts of the question."
+detailed,Which country does Joshua Brenet play for and what is his position?,"# Joshua Brenet - Country and Position
+
+Based on the provided context:
+
+**Country:** Joshua Brenet plays for **Curaçao**
+
+**Position:** **DEF (Defender)**
+
+Additional context from his tournament statistics shows he appeared in 2 matches (2 started) for a total of 180 minutes during the 2026 World Cup.",RELEVANT,"The answer directly and accurately addresses both parts of the question. It correctly identifies that Joshua Brenet plays for Curaçao (not a club, but his national team) and his position is DEF (Defender). Both pieces of information are directly extracted from the player context provided (player-462), which states ""Joshua Benjamin Brenet - Curaçao, position DEF."" The additional tournament statistics provided are also accurate and enhance the answer without contradicting the context."
+detailed,What was the final score of the Mexico vs South Korea game at Guadalajara Stadium?,"# Final Score: Mexico vs South Korea at Guadalajara Stadium
+
+**Final Score: Mexico 1, South Korea 0**
+
+This Group Stage match took place on June 18, 2026, at Guadalajara Stadium (Estadio Akron) in Zapopan, Mexico.
+
+## Match Details:
+
+- **Goal Scorer:** Luis Francisco Romo (Mexico) scored in the 50th minute
+- **Player of the Match:** Luis Francisco Romo
+- **Expected Goals (xG):** Mexico 1.62, South Korea 0.58
+- **Referee:** Gustavo Tejera
+
+## Team Statistics:
+
+**Mexico (Home):**
+- Possession: 49%
+- Shots: 8 (4 on target)
+- Corners: 0
+- Fouls: 9
+
+**South Korea (Away):**
+- Possession: 51%
+- Shots: 9 (2 on target)
+- Corners: 2
+- Fouls: 7
+
+Mexico's superior xG (1.62 vs 0.58) reflected their dominant performance, despite South Korea having slightly more possession and taking more shots overall.",RELEVANT,"The answer correctly identifies the final score as Mexico 1, South Korea 0, which matches the context provided for match-25. All details in the answer are accurate and consistent with the context, including: the date (June 18, 2026), stadium name (Guadalajara Stadium/Estadio Akron), location, goal scorer (Luis Francisco Romo in 50th minute), Player of the Match (Luis Francisco Romo), referee name, expected goals statistics, and team statistics for both possession and shots. The answer comprehensively addresses the question with supporting details from the context."

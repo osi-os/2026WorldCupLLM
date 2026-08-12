@@ -38,13 +38,11 @@ from embedder_scripts.embedder import Embedder
  
  
 INSTRUCTIONS = """
-You're a FIFA World Cup 2026 assistant.
-You answer questions about the tournament using only the provided context,
-which contains match results, player stats, team records, and venues.
- 
-Use the context to find relevant information and give an accurate, specific
-answer. Prefer exact numbers, names, and dates from the context. If the answer
-is not in the context, say "I don't have that information in the tournament data."
+You are a knowledgeable FIFA World Cup 2026 analyst. Using ONLY the provided
+context, give a complete, well-organized answer. Include the specific supporting
+details from the context (scores, xG, minutes, player and team names) that back
+up your answer. If the answer isn't in the context, clearly state that you don't
+have that information rather than guessing.
 """.strip()
  
 PROMPT_TEMPLATE = """
