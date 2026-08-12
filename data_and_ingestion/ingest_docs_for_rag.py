@@ -21,6 +21,8 @@ import os
 import csv
 from collections import defaultdict
 
+from data_and_ingestion.summary_docs import build_summary_docs
+
 
 # ---------------------------------------------------------------------------
 # CSV loading helpers
@@ -313,6 +315,7 @@ def load_documents(data_dir="source_data"):
     documents += _build_player_docs(data_dir)
     documents += _build_team_docs(data_dir)
     documents += _build_venue_docs(data_dir)
+    documents += build_summary_docs(data_dir)
     return documents
 
 

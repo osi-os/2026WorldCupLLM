@@ -51,7 +51,7 @@ QUESTION: {question}
 CONTEXT:
 {context}
 """.strip()
- 
+
  
 # ---------------------------------------------------------------------------
 # Reciprocal Rank Fusion (for hybrid search)
@@ -150,9 +150,30 @@ class RAGFifa:
         response = self.llm(prompt)
         return response.content[0].text
  
+    def answer(self, query, num_results=5):
+        """
+        Full RAG call that also returns retrieval sources, token usage, and
+        response time. Used by the Streamlit app (sources panel) and by the
+        monitoring layer (logging tokens/cost/latency).
+        """
+        import time
+        t0 = time.time()
+        results = self.search(query, num_results=num_results)
+        prompt = self.build_prompt(query, results)
+        response = self.llm(prompt)
+        elapsed = time.time() - t0
+        return {
+            "answer": response.content[0].text,
+            "sources": results,
+            "model": self.model,
+            "input_tokens": response.usage.input_tokens,
+            "output_tokens": response.usage.output_tokens,
+            "response_time": elapsed,
+        }
+ 
  
 # ---------------------------------------------------------------------------
-# Index building with embedding persistence (Option 2)
+# Index building with embedding persistence
 # ---------------------------------------------------------------------------
  
 EMB_PATH = "embeddings.npy"
@@ -247,4 +268,3 @@ if __name__ == "__main__":
         print(f"\n=== {stype.upper()} SEARCH: {query} ===")
         for r in rag.search(query, num_results=3):
             print(f"  [{r['doc_type']}] {r['doc_id']}: {r['content'].splitlines()[0]}")
- 

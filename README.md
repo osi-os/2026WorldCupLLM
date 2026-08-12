@@ -52,3 +52,12 @@ answers it was classifying as non-relevant (like Messi scoring goals), because 1
 from international play in 2021 and 2. said the 2026 World Cup hadn't been played yet.
 
 To fix this, I told the JUDGE_PROMPT to judge answers ONLY against the CONTEXT provided (the tournament data), and to treat the CONTEXT as the sole source of truth.
+
+
+
+
+
+
+Known Limitation: Aggregation Questions
+
+This assistant uses RAG, retrieving only the top 5 most relevant documents per query, so the LLM never sees the full dataset at once. This works well for local questions answerable from one or a few documents ("Who was player of the match in Mexico vs South Africa?") but poorly for global aggregation questions that require scanning everything ("Which team scored the most goals?", "Who is the top scorer?"), since 5 documents can't cover all 48 teams or 104 matches. The model answers from an incomplete slice or correctly notes it lacks the full picture. Every document is in the knowledge base, they simply aren't all retrieved. To address it, the ingestion pipeline pre-computes tournament-wide aggregates and stores each as its own summary document (21 in total: team goal rankings, all twelve group standings, top scorers/assists/cards, clean sheets, highest-scoring matches, biggest wins, and venues by matches hosted), so a single retrieved summary document can answer an entire class of aggregation questions directly.
