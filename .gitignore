@@ -13,3 +13,4 @@ source_data/
 embeddings.npy
 embeddings_ids.json
 models/
+*.csv

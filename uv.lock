@@ -25,6 +25,7 @@ dependencies = [
     { name = "python-dotenv" },
     { name = "requests" },
     { name = "tokenizers" },
+    { name = "tqdm" },
 ]
 
 [package.metadata]
@@ -39,6 +40,7 @@ requires-dist = [
     { name = "python-dotenv", specifier = ">=1.2.2" },
     { name = "requests", specifier = ">=2.32.5" },
     { name = "tokenizers", specifier = ">=0.23.1" },
+    { name = "tqdm", specifier = ">=4.70.0" },
 ]
 
 [[package]]
