@@ -18,7 +18,7 @@ Usage:
 
 from minsearch import Index
 
-from ingest_docs_for_rag import load_documents
+from data_and_ingestion.ingest_docs_for_rag import load_documents
 
 
 INSTRUCTIONS = """
