@@ -10,3 +10,6 @@ faq.db*
 __pycache__/
 *.ipynb_checkpoints
 source_data/
+embeddings.npy
+embeddings_ids.json
+models/
