@@ -13,3 +13,5 @@ source_data/
 embeddings.npy
 embeddings_ids.json
 models/
+fifa_worldcup.duckdb
+embeddings_meta.json

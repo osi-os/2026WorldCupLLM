@@ -175,6 +175,60 @@ def build_summary_docs(data_dir):
     docs.append({"doc_id": "summary-venues-by-matches", "doc_type": "summary",
                  "content": "\n".join(lines)})
 
+    # ---- Tournament champion (answers "who won the World Cup / the final") --
+    def _winner_loser(m):
+        hs, as_ = _int(m["home_score"]), _int(m["away_score"])
+        if hs != as_:
+            return (m["home_team_name"], m["away_team_name"]) if hs > as_ \
+                else (m["away_team_name"], m["home_team_name"])
+        hp, ap = _int(m["home_penalty_score"]), _int(m["away_penalty_score"])
+        return (m["home_team_name"], m["away_team_name"]) if hp >= ap \
+            else (m["away_team_name"], m["home_team_name"])
+
+    finals = [m for m in detailed
+              if m["stage_name"] == "Final" and m["status"] == "Completed"]
+    if finals:
+        f = finals[0]
+        champion, runner_up = _winner_loser(f)
+        lines = [
+            f"{champion} won the 2026 FIFA World Cup.",
+            f"{champion} are the champions and winners of the tournament. "
+            f"{runner_up} finished as runners-up.",
+            f"Final: {f['home_team_name']} {f['home_score']}-{f['away_score']} "
+            f"{f['away_team_name']} ({f['result_type']}) on {f['date']} at "
+            f"{f['stadium_name']}, {f['city']}.",
+            f"Player of the match in the final: {f['player_of_the_match_name']}.",
+        ]
+        third = [m for m in detailed
+                 if m["stage_name"] == "Third-place match"
+                 and m["status"] == "Completed"]
+        if third:
+            tw, _ = _winner_loser(third[0])
+            lines.append(f"Third place: {tw}.")
+        docs.append({"doc_id": "summary-tournament-champion", "doc_type": "summary",
+                     "content": "\n".join(lines)})
+
+    # ---- Knockout stage results (bracket) ----------------------------------
+    knockout_order = ["Round of 32", "Round of 16", "Quarter-finals",
+                      "Semi-finals", "Third-place match", "Final"]
+    ko = [m for m in detailed
+          if m["stage_name"] in knockout_order and m["status"] == "Completed"]
+    if ko:
+        ko.sort(key=lambda m: (knockout_order.index(m["stage_name"]), m["date"]))
+        lines = ["2026 FIFA World Cup knockout stage results (Round of 32 "
+                 "through the Final):"]
+        current = None
+        for m in ko:
+            if m["stage_name"] != current:
+                current = m["stage_name"]
+                lines.append(f"\n{current}:")
+            extra = f" ({m['result_type']})" if m["result_type"] != "Regular" else ""
+            lines.append(f"  {m['home_team_name']} {m['home_score']}-"
+                         f"{m['away_score']} {m['away_team_name']}{extra} "
+                         f"[{m['date']}]")
+        docs.append({"doc_id": "summary-knockout-results", "doc_type": "summary",
+                     "content": "\n".join(lines)})
+
     return docs
 
 
