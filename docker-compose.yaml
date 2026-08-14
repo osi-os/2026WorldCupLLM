@@ -1,4 +1,27 @@
 services:
+  app:
+    build: .
+    container_name: worldcup-app
+    ports:
+      - "8501:8501"
+    env_file:
+      - .env
+    environment:
+      # Inside the compose network, reach Postgres by service name.
+      # (app.py calls load_dotenv() with override=False, so this wins over .env)
+      POSTGRES_HOST: postgres
+      POSTGRES_PORT: "5432"
+      DB_PATH: /app/kb/fifa_worldcup.duckdb
+      EMB_PATH: /app/kb/embeddings.npy
+      EMB_META_PATH: /app/kb/embeddings_meta.json
+    volumes:
+      - ./source_data:/app/source_data        # Kaggle CSVs (see README prerequisites)
+      - ./models:/app/models                   # ONNX model (auto-downloaded if absent)
+      - kb_data:/app/kb                        # persisted knowledge base + embeddings
+    depends_on:
+      postgres:
+        condition: service_healthy
+
   postgres:
     image: postgres:17
     container_name: worldcup-postgres
@@ -37,3 +60,4 @@ services:
 volumes:
   pgdata:
   grafana_data:
+  kb_data:

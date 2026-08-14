@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.git/
+kb/
+fifa_worldcup.duckdb
+embeddings.npy
+embeddings_meta.json
+models/
+source_data/
+evaluation/*.csv
+*.duckdb
